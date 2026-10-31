@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "random-note": {
+      "source": "./plugins/random-note",
+      "resolved": "C:\\Users\\acer\\counseling-notes-site\\plugins\\random-note",
+      "commit": "local",
+      "installedAt": "2026-10-31T17:05:25.482Z"
+    }
+  }
+}

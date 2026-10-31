@@ -1,0 +1,30 @@
+{
+  "name": "random-note",
+  "version": "1.0.0",
+  "description": "「隨機複習」按鈕：從知識庫隨機抽一篇筆記",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "random-note",
+    "displayName": "Random Note",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "RandomNote": {
+        "displayName": "Random Note",
+        "defaultPosition": "left",
+        "defaultPriority": 40
+      }
+    }
+  }
+}
