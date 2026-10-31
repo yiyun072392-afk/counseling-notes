@@ -14,8 +14,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Noto Serif TC
-      body: Noto Sans TC
+      header: Huninn
+      body: Huninn
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -108,6 +108,13 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      useThemeFonts: false
+      body: { name: Huninn, weights: [400] }
+      header: { name: Huninn, weights: [400] }
+      title: { name: Huninn, weights: [400] }
+      interface: { name: Huninn, weights: [400] }
   - source: "@quartz-themes/core"
     enabled: false
     options:
