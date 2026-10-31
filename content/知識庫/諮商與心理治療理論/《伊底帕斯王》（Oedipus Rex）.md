@@ -1,8 +1,9 @@
 ---
-title: "《伊底帕斯王》（Oedipus Rex）"
+title: 《伊底帕斯王》（Oedipus Rex）
+tags: []
 ---
 
-索福克勒斯（Sophocles）的古希臘悲劇，是 Freud 命名 [[伊底帕斯情結]] 的典故來源。
+索福克里斯（Sophocles）的古希臘悲劇，是 Freud 命名 [[伊底帕斯情結]] 的典故來源。
 
 ## 劇情大綱
 
