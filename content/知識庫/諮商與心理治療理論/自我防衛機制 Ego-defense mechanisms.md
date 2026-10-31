@@ -1,3 +1,7 @@
+---
+title: "自我防衛機制 Ego-defense mechanisms"
+---
+
 [[精神分析治療 Psychoanalytic therapy]]的概念之一。自我（Ego）無法抵禦焦慮時使用的策略之一。
 
 | 中文名稱   | 英文名稱                        | 定義                                                                                                                                                                                                                                                                                                                                                                               | 舉例                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

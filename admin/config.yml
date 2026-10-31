@@ -1,0 +1,203 @@
+# 網頁後台設定（Sveltia CMS）
+# 後台網址：https://kuripsy.space/admin/
+backend:
+  name: github
+  repo: yiyun072392-afk/counseling-notes
+  branch: v5
+  commit_messages:
+    create: "新增筆記：{{slug}}"
+    update: "更新筆記：{{slug}}"
+    delete: "刪除筆記：{{slug}}"
+    uploadMedia: "上傳圖片：{{path}}"
+    deleteMedia: "刪除圖片：{{path}}"
+
+site_url: https://kuripsy.space
+locale: zh-Hant
+
+# 上傳的圖片統一放這裡
+media_folder: content/知識庫/附件
+public_folder: /知識庫/附件
+
+slug:
+  encoding: unicode
+  clean_accents: false
+
+collections:
+  - name: home
+    label: 首頁
+    files:
+      - label: 首頁（目錄）
+        name: index
+        file: content/index.md
+        fields:
+          - { label: 標題, name: title, widget: string }
+          - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text] }
+
+  - name: theory
+    label: 諮商與心理治療理論
+    folder: content/知識庫/諮商與心理治療理論
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: dev-psy
+    label: 基礎｜發展心理學
+    folder: content/知識庫/諮商的心理學基礎/發展心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: social-psy
+    label: 基礎｜社會心理學
+    folder: content/知識庫/諮商的心理學基礎/社會心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: neuro-psy
+    label: 基礎｜神經心理學
+    folder: content/知識庫/諮商的心理學基礎/神經心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: cog-psy
+    label: 基礎｜認知心理學
+    folder: content/知識庫/諮商的心理學基礎/認知心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: personality-psy
+    label: 基礎｜性格心理學
+    folder: content/知識庫/諮商的心理學基礎/性格心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: abnormal
+    label: 心理健康與變態心理學
+    folder: content/知識庫/心理健康與變態心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: group
+    label: 團體諮商與心理治療
+    folder: content/知識庫/團體諮商與心理治療
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: assessment
+    label: 個案評估與心理衡鑑
+    folder: content/知識庫/個案評估與心理衡鑑
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: ethics
+    label: 實務與專業倫理
+    folder: content/知識庫/諮商與心理治療實務與專業倫理
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: statistics
+    label: 方法｜心理統計
+    folder: content/知識庫/心理學方法/心理統計
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: experiment
+    label: 方法｜心理實驗
+    folder: content/知識庫/心理學方法/心理實驗
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: testing
+    label: 方法｜心理測驗
+    folder: content/知識庫/心理學方法/心理測驗
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }

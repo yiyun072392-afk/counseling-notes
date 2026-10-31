@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   locale: zh-TW
-  baseUrl: example.com
+  baseUrl: kuripsy.space
   ignorePatterns:
     - private
     - templates
@@ -217,6 +217,8 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
+    options:
+      rootName: 首頁
     layout:
       position: beforeBody
       priority: 5

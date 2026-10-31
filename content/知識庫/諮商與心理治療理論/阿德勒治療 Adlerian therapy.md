@@ -1,3 +1,7 @@
+---
+title: "阿德勒治療 Adlerian therapy"
+---
+
 阿德勒（Alfred Adler）早年是 Freud 的同事，後來因為不同意 Freud 以性驅力解釋人格而分道揚鑣，可對照 [[精神分析治療 Psychoanalytic therapy]]。阿德勒的觀點一言以蔽之就是「生命的意義在於貢獻。」
 ## 阿德勒治療的基本概念有哪些？
 1. 目標導向的行動
