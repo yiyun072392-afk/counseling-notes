@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "home-cards": {
+      "source": "./plugins/home-cards",
+      "resolved": "C:\\Users\\acer\\counseling-notes-site\\plugins\\home-cards",
+      "commit": "local",
+      "installedAt": "2026-11-01T05:12:33.116Z"
+    },
     "random-note": {
       "source": "./plugins/random-note",
       "resolved": "C:\\Users\\acer\\counseling-notes-site\\plugins\\random-note",

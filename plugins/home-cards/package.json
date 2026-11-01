@@ -1,0 +1,30 @@
+{
+  "name": "home-cards",
+  "version": "1.0.0",
+  "description": "首頁的分類卡片：自動計算每個分類有幾篇筆記",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "home-cards",
+    "displayName": "Home Cards",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "HomeCards": {
+        "displayName": "Home Cards",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 5
+      }
+    }
+  }
+}

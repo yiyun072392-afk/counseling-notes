@@ -19,25 +19,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f7f7fb"
+        lightgray: "#e3e3ef"
+        gray: "#9a9cb8"
+        darkgray: "#3b3d58"
+        dark: "#1e1f38"
+        secondary: "#5a52d5"
+        tertiary: "#8a80e6"
+        highlight: rgba(90, 82, 213, 0.08)
+        textHighlight: "#d9d4ff"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#15162a"
+        lightgray: "#2d2f4a"
+        gray: "#6e7194"
+        darkgray: "#d2d4e8"
+        dark: "#eff0fa"
+        secondary: "#a9a3ff"
+        tertiary: "#c4bdff"
+        highlight: rgba(169, 163, 255, 0.1)
+        textHighlight: "#4b44a8"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -185,6 +185,11 @@ plugins:
     layout:
       position: left
       priority: 40
+  - source: ./plugins/home-cards
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 5
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:

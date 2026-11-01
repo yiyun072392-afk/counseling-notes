@@ -1,3 +1,197 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// 網站外觀：藍紫色、平面、圓角，不用漸層和陰影
+
+:root {
+  --card: #ffffff;
+  --radius: 10px;
+}
+:root[saved-theme="dark"] {
+  --card: #1c1d35;
+}
+
+// 拿掉陰影，改用細邊框
+*,
+*::before,
+*::after {
+  box-shadow: none !important;
+}
+
+// 側邊選單：目前所在的頁面用淡色底標出
+.explorer .active {
+  background: var(--highlight);
+  border-radius: 6px;
+  padding: 0.1rem 0.4rem;
+  margin-left: -0.4rem;
+}
+
+// 搜尋框、連結圖、連結預覽的圓角
+.search > .search-button,
+.graph > .graph-outer,
+.popover > .popover-inner {
+  border-radius: var(--radius);
+  border: 1px solid var(--lightgray);
+}
+
+// 文章開頭的「重點整理」框：> [!summary] 重點整理
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --color: var(--secondary);
+  --bg: var(--highlight);
+  border: none;
+  border-left: 4px solid var(--secondary);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background: var(--bg);
+  padding: 0.25rem 1.25rem 0.5rem;
+  margin: 1.5rem 0;
+
+  & > .callout-title {
+    color: var(--secondary);
+    font-weight: 600;
+  }
+}
+
+// ── 首頁 ──────────────────────────────
+
+body[data-slug="index"] {
+  // 首頁不需要「閱讀時間」
+  .content-meta {
+    display: none;
+  }
+
+  // 目錄裡的筆記列表排成卡片
+  .markdown-rendered > ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    gap: 0.75rem;
+
+    & > li {
+      margin: 0;
+      padding: 0.85rem 1rem;
+      background: var(--card);
+      border: 1px solid var(--lightgray);
+      border-radius: var(--radius);
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: var(--gray);
+      transition: border-color 0.15s ease;
+
+      &:hover {
+        border-color: var(--secondary);
+      }
+
+      // 筆記名稱自成一行，說明放在下面
+      & > a {
+        display: block;
+        margin-bottom: 0.3rem;
+        font-size: 1rem;
+        background: none;
+        padding: 0;
+        color: var(--dark);
+      }
+    }
+  }
+
+  .markdown-rendered > h2 {
+    margin-top: 2.5rem;
+  }
+
+  .markdown-rendered > h3 {
+    color: var(--gray);
+    font-size: 0.95rem;
+    margin: 1.5rem 0 0.75rem;
+  }
+}
+
+// 分類卡片（由 plugins/home-cards 產生）
+.home-cards {
+  margin-top: 3rem;
+}
+
+.home-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 0.75rem;
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 1rem 1.1rem;
+  background: var(--card);
+  border: 1px solid var(--lightgray);
+  border-top: 3px solid var(--secondary);
+  border-radius: var(--radius);
+  color: var(--darkgray);
+  text-decoration: none;
+  transition: border-color 0.15s ease;
+
+  &.internal {
+    background: var(--card);
+    padding: 1rem 1.1rem;
+    font-weight: normal;
+  }
+
+  &:hover:not(.is-empty) {
+    border-color: var(--secondary);
+  }
+
+  &.is-empty {
+    border-top-color: var(--lightgray);
+    opacity: 0.65;
+  }
+}
+
+.home-card-title {
+  margin: 0;
+  font-size: 1.05rem;
+  color: var(--dark);
+}
+
+.home-card-desc {
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--gray);
+  flex: 1;
+}
+
+.home-card-count {
+  align-self: flex-start;
+  margin-top: 0.3rem;
+  padding: 0.1rem 0.6rem;
+  border-radius: 999px;
+  background: var(--highlight);
+  color: var(--secondary);
+  font-size: 0.8rem;
+
+  .is-empty & {
+    background: none;
+    color: var(--gray);
+    padding-left: 0;
+  }
+}
+
+// 手機版：上方工具列空間小，按鈕縮成只顯示骰子
+@media all and ($mobile) {
+  .random-note {
+    width: auto;
+    margin: 0;
+    padding: 0.3rem 0.5rem;
+    white-space: nowrap;
+    font-size: 0;
+
+    &::before {
+      content: "🎲";
+      font-size: 1.1rem;
+    }
+  }
+
+  .page-title {
+    white-space: nowrap;
+  }
+}
