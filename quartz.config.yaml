@@ -164,6 +164,18 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      # 側邊選單的分類順序：基礎學科 → 研究方法 → 臨床與諮商的應用（和 plugins/home-cards 一致）
+      sortFn: >-
+        (a, b) => {
+          const order = ["諮商的心理學基礎", "普通心理學", "生物心理學", "神經心理學", "認知心理學", "發展心理學", "性格心理學", "社會心理學", "心理學方法", "心理統計", "心理實驗", "心理測驗", "心理健康與變態心理學", "諮商與心理治療理論", "個案評估與心理衡鑑", "團體諮商與心理治療", "諮商與心理治療實務與專業倫理"];
+          if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+          if (a.isFolder) {
+            const rank = (n) => { const i = order.indexOf(n.displayName); return i < 0 ? order.length : i };
+            if (rank(a) !== rank(b)) return rank(a) - rank(b);
+          }
+          return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+        }
     layout:
       position: left
       priority: 50

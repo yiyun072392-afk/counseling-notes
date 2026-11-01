@@ -33,9 +33,10 @@ collections:
           - { label: 標題, name: title, widget: string }
           - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text] }
 
-  - name: theory
-    label: 諮商與心理治療理論
-    folder: content/知識庫/諮商與心理治療理論
+  # 分類的順序：先心理學的基礎學科，再研究方法，最後是臨床與諮商的應用
+  - name: gen-psy
+    label: 基礎｜普通心理學
+    folder: content/知識庫/諮商的心理學基礎/普通心理學
     create: true
     extension: md
     format: frontmatter
@@ -46,22 +47,9 @@ collections:
       - { label: 標籤, name: tags, widget: list, required: false }
       - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
 
-  - name: dev-psy
-    label: 基礎｜發展心理學
-    folder: content/知識庫/諮商的心理學基礎/發展心理學
-    create: true
-    extension: md
-    format: frontmatter
-    slug: "{{title}}"
-    summary: "{{title}}"
-    fields:
-      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
-      - { label: 標籤, name: tags, widget: list, required: false }
-      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
-
-  - name: social-psy
-    label: 基礎｜社會心理學
-    folder: content/知識庫/諮商的心理學基礎/社會心理學
+  - name: bio-psy
+    label: 基礎｜生物心理學
+    folder: content/知識庫/諮商的心理學基礎/生物心理學
     create: true
     extension: md
     format: frontmatter
@@ -98,6 +86,19 @@ collections:
       - { label: 標籤, name: tags, widget: list, required: false }
       - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
 
+  - name: dev-psy
+    label: 基礎｜發展心理學
+    folder: content/知識庫/諮商的心理學基礎/發展心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
   - name: personality-psy
     label: 基礎｜性格心理學
     folder: content/知識庫/諮商的心理學基礎/性格心理學
@@ -111,48 +112,9 @@ collections:
       - { label: 標籤, name: tags, widget: list, required: false }
       - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
 
-  - name: abnormal
-    label: 心理健康與變態心理學
-    folder: content/知識庫/心理健康與變態心理學
-    create: true
-    extension: md
-    format: frontmatter
-    slug: "{{title}}"
-    summary: "{{title}}"
-    fields:
-      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
-      - { label: 標籤, name: tags, widget: list, required: false }
-      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
-
-  - name: group
-    label: 團體諮商與心理治療
-    folder: content/知識庫/團體諮商與心理治療
-    create: true
-    extension: md
-    format: frontmatter
-    slug: "{{title}}"
-    summary: "{{title}}"
-    fields:
-      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
-      - { label: 標籤, name: tags, widget: list, required: false }
-      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
-
-  - name: assessment
-    label: 個案評估與心理衡鑑
-    folder: content/知識庫/個案評估與心理衡鑑
-    create: true
-    extension: md
-    format: frontmatter
-    slug: "{{title}}"
-    summary: "{{title}}"
-    fields:
-      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
-      - { label: 標籤, name: tags, widget: list, required: false }
-      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
-
-  - name: ethics
-    label: 實務與專業倫理
-    folder: content/知識庫/諮商與心理治療實務與專業倫理
+  - name: social-psy
+    label: 基礎｜社會心理學
+    folder: content/知識庫/諮商的心理學基礎/社會心理學
     create: true
     extension: md
     format: frontmatter
@@ -192,6 +154,71 @@ collections:
   - name: testing
     label: 方法｜心理測驗
     folder: content/知識庫/心理學方法/心理測驗
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: abnormal
+    label: 應用｜心理健康與變態心理學
+    folder: content/知識庫/心理健康與變態心理學
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: theory
+    label: 應用｜諮商與心理治療理論
+    folder: content/知識庫/諮商與心理治療理論
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: assessment
+    label: 應用｜個案評估與心理衡鑑
+    folder: content/知識庫/個案評估與心理衡鑑
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: group
+    label: 應用｜團體諮商與心理治療
+    folder: content/知識庫/團體諮商與心理治療
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{title}}"
+    summary: "{{title}}"
+    fields:
+      - { label: 標題, name: title, widget: string, hint: "也會當成檔名，請和 [[雙向連結]] 裡寫的名字一致" }
+      - { label: 標籤, name: tags, widget: list, required: false }
+      - { label: 內文, name: body, widget: markdown, modes: [raw, rich_text], hint: "預設用原始碼模式，[[雙向連結]] 才不會被改壞" }
+
+  - name: ethics
+    label: 應用｜實務與專業倫理
+    folder: content/知識庫/諮商與心理治療實務與專業倫理
     create: true
     extension: md
     format: frontmatter
