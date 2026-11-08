@@ -4,6 +4,7 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
+import { GTM_ID, gtmHeadScript, gtmNavScript } from "../util/gtm"
 
 export default (() => {
   const Head: QuartzComponent = ({
@@ -43,6 +44,13 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {GTM_ID && (
+          <>
+            {/* data-persist: keep these scripts alive across SPA navigations instead of re-running them */}
+            <script data-persist="true" dangerouslySetInnerHTML={{ __html: gtmHeadScript(GTM_ID) }} />
+            <script data-persist="true" dangerouslySetInnerHTML={{ __html: gtmNavScript }} />
+          </>
+        )}
         {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
         {coreScript && coreScript.contentType === "external" && (
           <link rel="preload" href={coreScript.src} as="script" />

@@ -16,6 +16,7 @@ import { styleText } from "util"
 import { resolveFrame } from "./frames"
 import type { TreeTransform } from "../plugins/types"
 import type { BuildCtx } from "../util/ctx"
+import { GTM_ID, gtmNoscript } from "../util/gtm"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -347,6 +348,7 @@ export function renderPage(
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
+        {GTM_ID && <noscript dangerouslySetInnerHTML={{ __html: gtmNoscript(GTM_ID) }} />}
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
