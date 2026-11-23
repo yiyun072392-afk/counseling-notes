@@ -7,7 +7,7 @@ tags:
   - 語言
 ---
 
-← [[神經系統]]　｜　[[大腦皮質與四大腦葉 Cerebral Cortex and Lobes]]
+← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]
 
 ## 什麼是失語症 What Is Aphasia?
 
