@@ -44,6 +44,8 @@ tags:
 
 視丘是腦的主要**中繼站**（relay station）。
 
+整個視丘就像大腦的**收發室**，把外界的感覺訊息分送到大腦的各個部門。
+
 除了嗅覺以外，感覺、運動和邊緣系統的路徑都會經過這裡。
 
 視丘由許多個**核**（nuclei）組成。
@@ -53,7 +55,11 @@ tags:
 - **相同部門之內**裡的員工都做相近的工作
 - **不同部門之間**有聯絡管道，方便分工合作
 
-整個視丘就像大腦的**收發室**，把外界的感覺訊息分送到大腦的各個部門。
+幾個常考的核，各自轉送不同的感覺：
+
+- **外側膝狀體**（lateral geniculate nucleus）：轉送**視覺**，從眼睛送到視覺皮質
+- **內側膝狀體**（medial geniculate nucleus）：轉送**聽覺**，送到聽覺皮質
+- **腹後核**（ventral posterior nucleus）：轉送觸覺、痛覺等**身體感覺**，送到體感覺皮質
 
 它也是接收外界刺激的前哨站，像一名偵察兵，參與調節**意識和警覺**。
 
@@ -61,9 +67,7 @@ tags:
 
 ## 下視丘 Hypothalamus
 
-位在視丘下方的，就是**下視丘**。
-
-下視丘是腦的**內臟控制中心**。
+**下視丘是腦的內臟控制中心**，位在視丘下方。
 
 透過和內分泌、自律神經、體運動與邊緣系統的連結，它維持身體的恆定（homeostasis），包括：
 
@@ -77,11 +81,22 @@ tags:
 - **神經**：直接控制腦幹和脊髓裡的中樞，調節[[自律神經系統 Autonomic Nervous System|自律神經系統]]的活動。
 - **內分泌**：往下延伸成漏斗柄，連到內分泌腺「腦下垂體」，以神經和化學路徑影響荷爾蒙分泌。
 
+下視丘應付**壓力**的路線，叫下視丘－腦下垂體－腎上腺軸，簡稱 **HPA 軸**：
+
+1. 遇到壓力，下視丘放出**促腎上腺皮質素釋放激素**（CRH）
+2. 腦下垂體前葉接著放出**促腎上腺皮質素**（ACTH）
+3. 腎上腺皮質放出**皮質醇**（cortisol），讓身體準備應付壓力
+
+皮質醇變多後，會回頭抑制下視丘和腦下垂體，叫**負回饋**。壓力過了，身體就慢慢回到平常。
+
+壓力太久或太強，這套反應反而會傷身，增加心血管疾病、焦慮和憂鬱的風險。
+
 下視丘外側有一群負責維持清醒的神經細胞，叫**下視丘泌素**（hypocretin／食慾素 orexin）神經元。
 
 這群細胞消失，就會造成**第一型猝睡症**（narcolepsy type 1）：
 
-- 白天突然睡著叫猝睡症
+白天突然睡著叫猝睡症
+
 - 遇到大笑等強烈情緒時，肌肉突然失去力氣而腿軟，叫**猝倒**（cataplexy）
 
 因為症狀看起來只像睡眠不足，很容易被忽略。
@@ -91,11 +106,6 @@ tags:
 - 間腦位在大腦和腦幹之間，是感覺和身體狀態的樞紐。
 - 視丘像大腦的收發室，分送感覺訊息至不同大腦皮質。
 - 下視丘像身體的總管，管體溫、飲食、睡眠與清醒、壓力。
-
-## 待補 To Do
-
-- 視丘各核的分工（如外側膝狀體、內側膝狀體）
-- 下視丘－腦下垂體－腎上腺軸（HPA 軸）與壓力
 
 ## 參考資料
 
@@ -108,3 +118,7 @@ tags:
 - Nature Reviews Neurology：[doi:10.1038/S41582-019-0226-9](https://www.doi.org/10.1038/S41582-019-0226-9)，猝睡症是下視丘外側神經元的選擇性損失。
 - PubMed Central：[PMC6492289](https://pmc.ncbi.nlm.nih.gov/articles/PMC6492289)，下視丘泌素神經元與睡眠清醒。
 - Psychology Today：[Narcolepsy](https://www.psychologytoday.com/us/conditions/narcolepsy)，猝睡症與憂鬱、焦慮並存或被誤診。
+- JoVE：[Diencephalon: Thalamus and Information Relay](https://jove.com/science-education/14910/diencephalon-thalamus-and-information-relay)，外側膝狀體、內側膝狀體與腹後核的分工。
+- StatPearls：[Physiology, Stress Reaction](https://www.ncbi.nlm.nih.gov/books/NBK541120/)，HPA 軸與長期壓力的影響。
+- Michigan State University Open Books：[HPA Axis](https://openbooks.lib.msu.edu/neuroscience/chapter/hpa-axis/)，CRH、ACTH 與皮質醇的順序。
+- Lancaster University：[HPA axis](https://www.lancaster.ac.uk/fas/psych/glossary/hypothalamic-pituitary-adrenal_-hpa-_axis/)，皮質醇的負回饋。

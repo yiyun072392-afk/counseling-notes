@@ -39,9 +39,11 @@ tags:
 
 會出現這些症狀，有可能是因為負責讓動作準確、協調的**小腦出了問題**。
 
-小腦雖然跟大腦有很多共同點，不過其中一個不同之處就在於小腦沒有跟大腦一樣交叉控制，所以右側小腦受損，右邊的動作就失去了準度。
+**小腦管同一側的身體**，不像大腦是交叉控制。
 
-不過，小腦跟大腦一樣有**左右半球**，中間也有類似胼胝體，負責連接小腦左右半球的**蚓部**（vermis）。
+所以右側小腦受損，右邊的動作就失去了準度。
+
+小腦跟大腦一樣有**左右半球**，中間是一條連接兩邊的**蚓部**（vermis）。
 
 ## 小腦在做什麼 What the Cerebellum Does
 
@@ -56,10 +58,28 @@ tags:
 
 不同區域各有分工：
 
-- **蚓部** vermis：協調軀幹（頸、肩、胸、腹、髖）的動作
+- **蚓部** vermis：協調頸、肩、胸、腹、髖這些軀幹部位的動作
 - **旁蚓部**：控制四肢遠端的肌肉
 - **外側半球**：動作的計畫、起始的時間與協調
 - **絨球小結葉** flocculonodular lobe：平衡與前庭眼反射。
+
+小腦也可以照**功能**分成三塊：
+
+- **前庭小腦**（vestibulocerebellum）：就是絨球小結葉，管平衡和眼球運動
+- **脊髓小腦**（spinocerebellum）：蚓部和旁蚓部，管軀幹和四肢的動作
+- **大腦小腦**（cerebrocerebellum）：外側半球，管動作的計畫
+
+## 小腦怎麼和外面連絡 Cerebellar Peduncles
+
+**小腦靠三對「小腦腳」接在腦幹上**，訊息都從這裡進出：
+
+- **下小腦腳**：連到延腦，主要是**輸入**，從脊髓和前庭送來身體位置的訊息
+- **中小腦腳**：連到橋腦，最大的一對，**全部是輸入**，把大腦皮質經橋腦送來的訊息帶進小腦
+- **上小腦腳**：連到中腦，主要是**輸出**，把小腦的指令經視丘送回大腦皮質
+
+簡單記：**下、中負責進，上負責出**。
+
+小腦皮質不會直接往外送訊號，而是先交給藏在小腦深處的**小腦深部核**，再由它們送出去。
 
 ## 受損後的症狀 Signs of Damage
 
@@ -84,18 +104,18 @@ tags:
 
 小腦也和**認知與情緒**有關。
 
-Schmahmann 和 Sherman 描述了 20 位局部小腦病灶的患者，他們出現的是認知和情感的缺損。
-
-這叫**小腦認知情感症候群**（cerebellar cognitive affective syndrome，CCAS，也稱 Schmahmann syndrome），包括：
+小腦受損的人，可能出現**認知和情緒**的問題，叫**小腦認知情感症候群**（cerebellar cognitive affective syndrome，CCAS，也稱 Schmahmann syndrome），包括：
 
 - 執行功能
 - 視覺空間
 - 情緒與情感
 - 語言
 
-有一個假說叫「**思考的辨距不良**」（dysmetria of thought）。
+這是 Schmahmann 和 Sherman 整理 20 位小腦病灶患者後提出的。
 
-小腦協調動作出問題，動作會笨拙；同樣地，協調思考的部分出問題，思考也會不精準。
+有一個假說認為，**小腦協調思考，就像協調動作一樣**，叫「思考的辨距不良」（dysmetria of thought）。
+
+動作協調出問題，動作會笨拙；思考協調出問題，思考也會不精準。
 
 也有研究報告過，雙極性疾患、憂鬱症與焦慮症有小腦的異常。
 
@@ -108,10 +128,6 @@ Schmahmann 和 Sherman 描述了 20 位局部小腦病灶的患者，他們出�
 - 小腦的控制和受損症狀都在同一側。
 - 小腦不只跟運動有關，也參與了認知和情緒。
 
-## 待補 To Do
-
-- 小腦的傳入、傳出路徑與三個功能分區的細節
-
 ## 參考資料
 
 - StatPearls：[小腦條目](https://statpearls.com/sp/al/64/882/) 與 [NBK538167](https://www.ncbi.nlm.nih.gov/books/NBK538167/)，小腦的功能與分區。
@@ -120,3 +136,7 @@ Schmahmann 和 Sherman 描述了 20 位局部小腦病灶的患者，他們出�
 - PubMed Central：[The Cerebellar Cognitive Affective/Schmahmann Syndrome: a Task Force Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6978293)、[PMC8463403](https://pmc.ncbi.nlm.nih.gov/articles/PMC8463403)、[Cognitive-Affective Functions of the Cerebellum](https://pmc.ncbi.nlm.nih.gov/articles/PMC10634583)。
 - MSD Manual Professional：[Tremor](https://www.msdmanuals.com/professional/neurologic-disorders/movement-and-cerebellar-disorders/tremor)，意向性與靜止性顫抖的對照。
 - PubMed：[PMID 30565088](https://www.pubmed.gov/30565088/)，小腦來源的顫抖不只有意向性。
+- UTHealth Neuroscience Online：[Cerebellum](https://nba.uth.tmc.edu/neuroscience/s3/chapter05.html)，三對小腦腳的輸入輸出，以及深部核是唯一的輸出。
+- Kenhub：[Afferent and efferent pathways of the cerebellum](https://kenhub.com/en/library/anatomy/afferent-and-efferent-pathways-of-the-cerebellum)，三個功能分區。
+- AMBOSS：[Cerebellum](https://www.amboss.com/us/knowledge/cerebellum)，小腦腳與功能分區。
+- Wikipedia：[Cerebellar peduncle](https://www.wikipedia.org/wiki/Cerebellar_peduncle)，中小腦腳全部是傳入纖維。
