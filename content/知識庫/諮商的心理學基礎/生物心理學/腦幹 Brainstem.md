@@ -116,12 +116,6 @@ tags:
 - 中腦「大腦腳」的說明，與中腦結構的定義
 - 腦幹受損的其他表現（本篇只用閉鎖症候群）
 
-## 相關閱讀 Related Notes
-
-- [[間腦 Diencephalon]]
-- [[小腦 Cerebellum]]
-- [[自律神經系統 Autonomic Nervous System]]
-
 ## 參考資料
 
 - StatPearls：[腦幹條目](https://www.ncbi.nlm.nih.gov/books/NBK544297/)，三個部分與腦神經核。

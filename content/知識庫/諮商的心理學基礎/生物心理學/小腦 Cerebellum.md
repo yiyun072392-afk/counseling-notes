@@ -112,11 +112,6 @@ Schmahmann 和 Sherman 描述了 20 位局部小腦病灶的患者，他們出�
 
 - 小腦的傳入、傳出路徑與三個功能分區的細節
 
-## 相關閱讀 Related Notes
-
-- [[間腦 Diencephalon]]
-- [[腦幹 Brainstem]]
-
 ## 參考資料
 
 - StatPearls：[小腦條目](https://statpearls.com/sp/al/64/882/) 與 [NBK538167](https://www.ncbi.nlm.nih.gov/books/NBK538167/)，小腦的功能與分區。
