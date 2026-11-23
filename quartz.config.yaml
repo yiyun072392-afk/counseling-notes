@@ -21,7 +21,7 @@ configuration:
       lightMode:
         light: "#f7f7fb"
         lightgray: "#e3e3ef"
-        gray: "#9a9cb8"
+        gray: "#686a88" # 說明文字用，對比度要 4.5:1 以上
         darkgray: "#3b3d58"
         dark: "#1e1f38"
         secondary: "#5a52d5"
@@ -31,7 +31,7 @@ configuration:
       darkMode:
         light: "#15162a"
         lightgray: "#2d2f4a"
-        gray: "#6e7194"
+        gray: "#9da0c2" # 說明文字用，對比度要 4.5:1 以上
         darkgray: "#d2d4e8"
         dark: "#eff0fa"
         secondary: "#a9a3ff"
