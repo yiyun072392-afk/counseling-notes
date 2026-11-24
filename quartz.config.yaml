@@ -202,6 +202,12 @@ plugins:
     layout:
       position: afterBody
       priority: 5
+  # 筆記裡的 > [!quiz] 小測驗：點選後立刻顯示對錯和解析
+  - source: ./plugins/quiz
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 6
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:

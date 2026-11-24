@@ -1,0 +1,30 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "把筆記裡的 > [!quiz] 區塊變成可以點的選擇題，立刻顯示對錯和解析",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "quiz",
+    "displayName": "Quiz",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "Quiz": {
+        "displayName": "Quiz",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 6
+      }
+    }
+  }
+}
