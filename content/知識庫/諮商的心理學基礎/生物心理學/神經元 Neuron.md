@@ -1,0 +1,292 @@
+---
+title: 神經元 Neuron
+description: 以高基與卡哈爾之爭說明神經元：構造、三種神經元、動作電位與靜止膜電位、跳躍式傳導、突觸與神經傳導物質、突觸後電位、神經可塑性，以及神經膠細胞。
+tags:
+  - 神經
+  - 神經元
+  - 神經傳導物質
+---
+
+← [[神經系統]]
+
+> [!quote] 故事
+> （以下改編自真實事件。）
+>
+> 1873 年，一名義大利醫師在廚房改建的小實驗室裡，發明一種新的染色法。
+>
+> 用這種方法泡過的腦組織，在顯微鏡下只有少數細胞會被染成黑色，但被染到的細胞，連最細的分支都看得一清二楚。
+>
+> 他看著那些糾纏在一起的分支，認為整個神經系統是一張連成一片的網，訊號在網裡自由流動。
+>
+> 十幾年後，一名西班牙醫師拿到這種染色法。
+>
+> 他染遍視網膜、小腦、脊髓，畫下好幾千張圖。
+>
+> 他越看越確定：這些細胞的分支只是彼此靠得很近，中間其實有縫，每一顆都是獨立的細胞。
+>
+> 1906 年，兩人一起拿到諾貝爾生理學或醫學獎，在斯德哥爾摩第一次見面。
+>
+> 頒獎後的演講上，兩人當著台下的面，各自說對方錯了。
+
+他們吵的問題是：神經系統是一張綿延不絕的網，還是由各自獨立的細胞組成？
+
+發明染色法的是卡米洛．高基（Camillo Golgi），主張神經元各自獨立的是卡哈爾（Santiago Ramón y Cajal）。
+
+一直以來，都沒有人能證明誰對誰錯。
+
+直到 1950 年代，電子顯微鏡終於看見神經元之間的縫。
+
+自此之後，卡哈爾的「神經元學說」成為現代神經科學的起點。
+
+## 神經元長什麼樣
+
+卡哈爾繪製的每一顆神經元，都有同樣的三個部分，各自負責不同的工作。
+
+- 樹突（dendrite）：像樹枝一樣分岔，負責接收其他神經元傳來的訊號
+- 細胞本體（soma）：裡面有細胞核，負責維持細胞運作，也把收到的訊號整合起來
+- 軸突（axon）：一條長長的線，負責把訊號送出去，傳給下一個神經元或肌肉
+
+訊號的方向是固定的：樹突接受訊息、細胞本體整合、軸突傳遞訊息。
+
+很多軸突外面還包著一層叫髓鞘（myelin）的脂肪，像電線的絕緣皮，讓訊號傳得更快。[[大腦皮質 Cerebral Cortex#大腦皮質是什麼|白質之所以白]]，就是因為這圈脂肪組成的髓鞘。
+
+## 神經元的三種工作
+
+卡哈爾畫下的神經元長得都差不多，做的工作卻不一樣。
+
+依照訊號從哪裡來，以及送到哪裡去，分成三種類型的神經元：
+
+- 感覺神經元：把皮膚、眼睛、耳朵這些感覺器官收到的消息，送進腦和脊髓
+- 運動神經元：把腦和脊髓的指令，送到肌肉和腺體
+- 中間神經元：腦和脊髓裡面，把感覺神經元和運動神經元連起來，負責整合、處理和轉送訊號。
+
+[[軀體神經系統 Somatic Nervous System|一名失去感覺神經的年輕人]]，讓人看見感覺神經元和運動神經元怎麼分工；三種神經元合作，就能在脊髓裡完成一個[[脊髓 Spinal Cord#不經過大腦的反應：反射|反射]]。
+
+三種神經元做的事不一樣，傳訊息的方式卻一模一樣：先在自己體內傳電，再把訊號交給下一個細胞。
+
+## 訊號怎麼在神經元裡跑
+
+[[神經系統|伽伐尼在青蛙腿上看到的電]]，就是在神經元裡跑的訊號。
+
+神經元裡的電訊號叫動作電位（action potential）：
+
+- 樹突收到的刺激夠強，超過一個門檻，軸突上就會產生動作電位，但刺激再強都不會改變動作電位的強度
+- 只要刺激不夠強，就完全不會產生
+
+這叫「全有全無」：有就是有，沒有就是沒有。動作電位不會因為刺激比較強就變得比較大，強的刺激只會讓動作電位出現得比較頻繁。
+
+## 動作電位怎麼產生
+
+神經元能放電，靠的是細胞膜內外的電位差。
+
+細胞裡外會有電位差主要有三個原因：
+
+1. 鈉鉀幫浦刻意消耗能量搬運鈉離子和鉀離子，維持細胞內外的不平衡：細胞膜上有一種叫「鈉鉀幫浦」的蛋白質，每消耗一份能量，就把三個鈉離子搬出去、兩個鉀離子搬進來，導致鈉離子越堆越多在外面，鉀離子越堆越多在裡面。
+2. 鉀離子比較容易漏出去：平常細胞膜上開著的鉀離子通道，比鈉離子通道多得多。鉀離子從這些通道往外漏，每漏出一個就帶走一份正電，也同樣製造了細胞內外不平衡的條件。
+3. 帶負電的蛋白質走不掉：細胞裡有很多帶負電的大蛋白質，大到穿不過細胞膜。帶正電的鉀離子離開，細胞內就越來越負。
+
+細胞沒有接受電訊號時，內外不平衡的程度大約是 -65 毫伏特，這叫靜止膜電位（resting potential）。
+
+- 帶正電的鈉離子大多堆在細胞外，隨時想往內
+- 帶正電的鉀離子大多留在細胞內，隨時想往外
+
+想要往內或往外的離子移動，受到兩股力量推動：
+
+- 濃度差：東西會從多的地方往少的地方擴散
+- 電荷差：正電會吸引負電，負電也會吸引正電
+
+鈉離子和鉀離子都帶正電，所以兩者都會被細胞裡的負電吸住。差別只在濃度：鈉離子外面多，鉀離子裡面多。
+
+套到神經細胞內外的兩種離子上：
+
+- 鈉離子：外面多、裡面少，濃度差把它往裡推；細胞本身就帶負電，電荷差也把它往裡拉。兩股力量同一個方向，所以通道一開就猛衝進細胞。
+- 鉀離子：裡面多、外面少，濃度差把它往外推；細胞裡的負電卻把它往回拉。平常往外推的力量稍微大一點，所以鉀離子慢慢往外漏。等到鈉離子衝進來，細胞裡變成正電，「正電排斥帶正電的鉀離子」加上「鉀離子想要往濃度低的地方擴散」的兩股力量都往外，鉀離子才會大量流出去
+
+這就是下面幾個步驟的來由：鈉離子先衝進來造成去極化，鉀離子再衝出去把太正的電位拉回靜止膜電位。
+
+樹突收到的刺激把膜電位拉到門檻，大約負五十五毫伏特，鈉離子的通道就打開：
+
+1. 極化（polarization）：膜電位處於「內負外正」的兩極化狀態。
+2. 去極化（depolarization）：鈉離子一旦湧進細胞，使膜電位從 -65 毫伏特變成 -55 毫伏特以上，電敏感性鈉離子通道就會打開，使得大量鈉離子湧入細胞，細胞內部達到約 +40 毫伏特的膜電位。
+3. 再極化（repolarization）：到達正電的高峰後，鈉離子通道關上，鉀離子通道打開，帶正電的鉀離子流出細胞，把膜電位帶回靜止膜電位的 -65 毫伏特。
+4. 過極化（hyperpolarization）：膜電位低於 -65 毫伏特時，鉀離子通道才正要關閉，因此鉀離子還在持續逃逸，使得膜電位短暫掉得比靜止膜電位更低。
+5. 極化（polarization）：膜電位比靜止膜電位還要低時，鈉鉀離子幫浦再度消耗能量，主動打出 3 個鈉離子，拉回 2 個鉀離子，使膜電位回到內負外正的兩極化狀態。
+
+## 髓鞘怎麼讓訊號變快：跳躍式傳導
+
+動作電位產生之後，還要沿著軸突一路傳到末端。前面說髓鞘讓訊號傳得更快，原因就在這一段路怎麼走。
+
+- 沒有髓鞘的軸突：動作電位得在軸突上一小段接一小段重新產生，像骨牌一張推倒下一張，速度大約每秒零點五到十公尺
+- 有髓鞘的軸突：髓鞘一節一節包住軸突，每節之間留下一小段沒包住的空隙，叫蘭氏結（node of Ranvier）
+
+髓鞘是絕緣體，包住的地方離子無法散逸，得以保存動能，動作電位就能從一個蘭氏結跳躍傳導（saltatory conduction）至下一個蘭氏結。
+
+沒有髓鞘的軸突像區間車，每一站都停；跳躍式傳導像高鐵，只停幾個大站，速度最快可以到每秒一百多公尺。
+
+髓鞘一壞，訊號就失去這條捷徑。
+
+多發性硬化症（multiple sclerosis）是免疫系統攻擊腦和脊髓裡，由[[#中樞神經系統裡的神經膠細胞|寡突膠細胞]]做出的髓鞘，訊號越傳越慢，甚至卡住傳不過去。
+
+訊號一路跳到軸突末端，接下來就要面對神經元之間的縫隙。
+
+## 訊號怎麼跳到下一個神經元
+
+卡哈爾說得沒錯，神經元之間有一道縫，所以動作電位沒辦法單靠一次極化、去極化、過極化跟再極化就能一路傳到底，中間勢必會遇到關卡。
+
+神經元之間的關卡叫突觸（synapse），中間的縫叫突觸間隙。
+
+- 電訊號跑到軸突的末端，末端釋放化學物質到突觸間隙
+- 這些漂過突觸間隙中的化學物質叫神經傳導物質（neurotransmitter），傳遞上一個神經元的化學訊息到下一個神經元的接受器
+- 下一個神經元整合成千上萬的神經元同時傳遞興奮性跟抑制性的神經傳導物質之後，再決定到底是要往下傳遞神經訊號，還是就此罷休。
+
+所以神經元之間的溝通是「電 → 化學 → 電」：
+
+- 神經元之內用電
+- 神經元之間用化學物質
+
+很多身心科藥物，就是利用神經元之間利用化學物質傳遞訊息的機制，調整突觸裡神經傳導物質的多寡。
+
+## 常見的神經傳導物質
+
+突觸間隙裡的神經傳導物質有好幾十種。依照它們對下一個神經元做的事，可以先分成三類。
+
+### 興奮性：催促下一個神經元
+
+- 麩胺酸（glutamate）：腦裡最主要的興奮性神經傳導物質，參與學習和記憶
+- 乙醯膽鹼（acetylcholine）：運動神經元靠它讓肌肉收縮，在腦裡也參與記憶和注意力
+
+### 抑制性：噤聲下一個神經元
+
+- GABA（γ-胺基丁酸）：腦裡最主要的抑制性神經傳導物質，讓神經元安靜下來。很多抗焦慮和助眠藥物增強它的作用
+- 甘胺酸（glycine）：主要在脊髓和腦幹踩煞車
+
+### 調節型：調整一整片腦區的狀態
+
+這一類不直接決定下一個神經元放不放電，而是調高或調低一整片腦區的反應，影響情緒、動機和清醒程度。
+
+- 多巴胺（dopamine）：參與動作控制、動機和獎賞。腦裡製造多巴胺的神經元大量死亡，就會引發帕金森氏症。
+- 血清素（serotonin）：調節情緒和睡眠。
+- 正腎上腺素（norepinephrine）：讓人警覺、提高注意力，也是[[自律神經系統 Autonomic Nervous System|交感神經]]傳達「準備戰鬥或逃跑」的化學訊號
+
+常見的抗憂鬱劑 SSRI 的藥物機制，是靠阻止軸突末端回收血清素，延長血清素在突觸間隙的作用時間，增加腦部調節情緒與睡眠的功能。
+
+## 下一個神經元怎麼決定放不放電：突觸後電位
+
+興奮性和抑制性的神經傳導物質接上接受器之後，會讓下一個神經元的膜電位產生小小的變化，這叫突觸後電位（postsynaptic potential）。
+
+突觸後電位分成兩種：
+
+- 興奮性突觸後電位（EPSP）：打開讓鈉離子這類正電進來的通道，膜電位往上升，離動作電位的觸發門檻更近
+- 抑制性突觸後電位（IPSP）：打開讓帶負電的氯離子進來、或讓鉀離子出去的通道，膜電位往下掉，離動作電位的觸發門檻更遠
+
+突觸後電位和動作電位不一樣：
+
+- 電位大小：突觸後電位有大有小，收到的神經傳導物質越多，變化越大；動作電位全有全無
+- 傳遞距離：突觸後電位只在樹突和細胞本體上短暫出現；動作電位沿著軸突一路傳到底
+
+單靠一個興奮性突觸後電位，不足以達到動作電位觸發門檻。神經元得加總所有突觸後電位加起來，而加總方式有兩種：
+
+- 空間加總：加總同一時間，從不同神經元傳遞過來的訊號
+- 時間加總：累計同一個神經元，在很短的時間內連續傳來好幾次訊號
+
+加總的結果送到軸突起點的軸丘（axon hillock）。軸丘像一個計分台：EPSP 加分、IPSP 扣分，總分超過門檻，軸丘就發射動作電位；沒超過，訊號就此作罷。
+
+抗焦慮藥物增強 GABA 會改變特定腦區的積分機制，讓抑制性突觸後電位本來每 1 點從只會扣 1 分，變成 1 點扣 10 分，神經元就更不容易放電。
+
+## 突觸會改變：神經可塑性
+
+每條突觸的計分權重並不一樣。
+
+一條突觸越常使用，它的鄰居神經元對它的反應就越大；很少用，就慢慢變弱。
+
+突觸和神經連結隨著經驗改變的能力，叫神經可塑性（neuroplasticity）。
+
+1949 年，加拿大心理學家唐納德．赫布（Donald Hebb）提出一個猜想：一個神經元一直讓另一個神經元放電，兩者之間的連結就會變強。
+
+二十多年後，實驗室證實這個猜想：
+
+- 1973 年，布利斯（Tim Bliss）和勒莫（Terje Lømo）用高頻電流反覆刺激兔子[[顳葉 Temporal Lobe|海馬迴]]裡的一條神經通路
+- 刺激停止很久之後，這條通路的反應仍然比之前大
+- 他們把這個現象叫長期增益作用（long-term potentiation），它成為學習和記憶最重要的細胞機制之一
+
+可塑性不只會影響微觀的神經元，更可以影響看得見的腦部組織。
+
+倫敦計程車司機要背下整座城市錯綜複雜的路線。2000 年的研究發現，他們海馬迴後段比一般人大，而且開計程車的年資越久，這一段就越大。
+
+神經可塑性的影響也延伸到台灣書店。2026 年上半年，神經科學家妮可．維諾拉（Nicole Vignola）的《Rewire：神經可塑性》擠進誠品和博客來暢銷榜第三名。
+
+這本書抓住的，正是可塑性帶來的希望：
+
+反覆出現的負面想法和習慣，如果能夠學習強化，那麼好習慣也可以。
+
+好習慣靠重複變強，壞習慣也靠重複變強。改變需要持續練習，沒有一夕之間的捷徑。
+
+## 神經元以外的細胞：神經膠細胞
+
+神經元能把訊號傳得又快又穩，背後靠的是另一大群不放電的細胞，叫神經膠細胞（glial cell）。
+
+早期的科學家以為它們只是把神經元黏在一起的「神經膠水」。後來才發現，它們各有各的工作。
+
+神經膠細胞依照所在的位置，分成兩組。
+
+### 中樞神經系統裡的神經膠細胞
+
+- 寡突膠細胞（oligodendrocyte）：替軸突包上髓鞘，一顆就能包好幾條軸突。
+- 星狀膠細胞（astrocyte）：形狀像星星，是腦裡數量最多的細胞，幫忙維持血腦屏障，也在突觸旁釋放和回收化學物質
+- 微膠細胞（microglia）：腦裡的免疫細胞，負責清除受損的細胞和入侵者
+
+### 周圍神經系統裡的神經膠細胞
+
+- 許旺細胞（Schwann cell）：替軸突包上髓鞘，一顆只包一條軸突的一小段，也修復受傷的軸突。
+- 衛星細胞（satellite cell）：包在周圍神經的細胞本體外面，負責支持和保護神經元。
+
+兩組裡都有負責包髓鞘的細胞：中樞靠寡突膠細胞，周圍靠許旺細胞。前面讓訊號加速的髓鞘，就是它們做出來的。
+
+## 總結
+
+- 神經元是神經系統裡各自獨立的細胞，負責接收和傳遞訊號。
+- 樹突接收訊號，細胞本體整合訊號，軸突把訊號送出去；髓鞘包護軸突，加速訊號傳遞。
+- 神經元依照職務分成感覺神經元、運動神經元和中間神經元。
+- 神經元之內的訊號是電，叫動作電位，遵守全有全無律。
+- 動作電位從靜止膜電位跳到正電，再落回來。
+- 有髓鞘的軸突只在蘭氏結產生動作電位，訊號跳著前進，叫跳躍式傳導。
+- 神經元之間隔著突觸間隙，利用化學的神經傳導物質傳遞訊號。
+- 神經傳導物質分成興奮性、抑制性和調節型；很多身心科藥物就是在調整這些物質。
+- 神經傳導物質在下一個神經元產生突觸後電位，EPSP 加分、IPSP 扣分，在軸丘加總超過門檻才放電。
+- 突觸會隨著使用變強或變弱，叫神經可塑性；長期增益作用是學習和記憶的重要機制。
+- 神經膠細胞不放電，依位置分成中樞和周圍兩組，負責做出髓鞘、維持環境和清除垃圾。
+
+## 待補
+
+- 突觸修剪：大腦在成長過程中怎麼剪掉用不到的連結
+
+## 參考資料
+
+- Nobel Prize：[Speed read: Exposing the forest](https://www.nobelprize.org/prizes/medicine/1906/summary/)，1906 年兩人共享諾貝爾獎，高基當時仍不支持神經元學說。
+- Nobel Prize：[How Golgi Shared the 1906 Nobel Prize in Physiology or Medicine with Cajal](https://www.nobelprize.org/prizes/medicine/1906/article/)，提名與評審過程。
+- Nobel Prize：[Santiago Ramón y Cajal](https://www.nobelprize.org/nobel_prizes/medicine/laureates/1906/cajal-article.html)，卡哈爾染了視網膜、小腦、脊髓，兩人在斯德哥爾摩才第一次見面。
+- Psychology Today：[Santiago Ramón y Cajal and the Neuron Doctrine](https://www.psychologytoday.com/us/blog/psychiatry-a-history/202302/santiago-ramon-y-cajal-and-the-neuron-doctrine)，1873 年的染色法，兩人在得獎演講互相批評。
+- Gunnar Grant, Brain Research Reviews, 2007：[How the 1906 Nobel Prize was shared between Golgi and Cajal](https://katalog.lib.cas.cz/KNAV/EdsRecord/edsair,edsair.doi.dedup.....71351525a58b6e682bd7ce9747959764)，網狀理論與神經元學說之爭。
+- StatPearls：[Neuroanatomy, Neurons](https://www.ncbi.nlm.nih.gov/books/NBK441977/)，樹突接收、軸突送出、細胞本體含細胞核。
+- StatPearls：[Physiology, Nerve](https://www.ncbi.nlm.nih.gov/books/NBK551652/)，髓鞘是絕緣層，讓傳導變快。
+- StatPearls：[Neuroanatomy, Neuron Action Potential](https://www.ncbi.nlm.nih.gov/books/NBK546639/)，動作電位的門檻與全有全無。
+- StatPearls：[Physiology, Synapse](https://www.ncbi.nlm.nih.gov/books/NBK526047/)，神經傳導物質從突觸前末端釋放到突觸間隙。
+- OpenStax / Lumen Psychology：[How Neurons Communicate](https://uen.pressbooks.pub/psychology1010/chapter/reading-neural-communication/)，鈉離子湧入產生動作電位、鉀離子流出造成再極化。
+- OpenStax / Lumen Psychology：[Chapter 2: Biopsychology](https://pressbooks.pub/arccversionlumen/chapter/reading-neural-communication/)，靜止約負七十毫伏特、門檻約負五十五毫伏特。
+- OpenStax / Lumen Psychology：[Neurotransmitters](https://pressbooks.online.ucf.edu/lumenpsychology/?p=4931)，多巴胺、GABA、麩胺酸、血清素的功能，藥物作為促進劑或拮抗劑。
+- StatPearls：[Histology, Glial Cells](https://www.statpearls.com/point-of-care/22271)，寡突膠細胞包多條軸突、許旺細胞只包一條、星狀膠細胞參與血腦障壁。
+- Encyclopaedia Britannica：[Types of neuroglia](https://www.britannica.com/science/nervous-system/Types-of-neuroglia)，「神經膠」的字源。
+- StatPearls：[Physiology, Resting Potential](https://ncbi.nlm.nih.gov/books/NBK538338)，鈉鉀幫浦把三個鈉離子搬出、兩個鉀離子搬進。
+- Michigan State University Open Books：[The Membrane at Rest](https://openbooks.lib.msu.edu/neuroscience/chapter/the-membrane-at-rest/)，靜止時開著的鉀離子通道比鈉離子通道多得多。
+- JoVE：[Resting Membrane Potential](https://www.jove.com/science-education/v/12176/resting-membrane-potential)，鉀離子流出後，帶負電的蛋白質留在細胞內。
+- Purves et al., Neuroscience：[Increased Conduction Velocity as a Result of Myelination](https://ncbi.nlm.nih.gov/books/NBK10921)，無髓鞘軸突每秒約 0.5 到 10 公尺，有髓鞘可達每秒 150 公尺，動作電位只在蘭氏結產生。
+- Taylor & Francis：[Saltatory conduction](https://taylorandfrancis.com/knowledge/Medicine_and_healthcare/Neurology/Saltatory_conduction)，去髓鞘讓傳導變慢或卡住。
+- Wikipedia：[Myelin](https://en.wikipedia.org/wiki/Myelin)，多發性硬化症影響腦、脊髓和視神經的髓鞘。
+- Indiana University Human Physiology：[Graded potentials](https://iu.pressbooks.pub/humanphys/?p=195)，EPSP 讓膜電位往門檻移動、IPSP 讓膜電位遠離門檻。
+- University of Oregon Neurobiology：[Graded Potentials](https://opentext.uoregon.edu/neurobiology/chapter/postsynaptic-potentials/)，時間加總與空間加總的定義。
+- Kenhub：[Temporal and spatial summation](https://www.kenhub.com/en/library/physiology/temporal-and-spatial-summation)，突觸後電位在軸丘加總，決定是否產生動作電位。
+- Oxford University Press：[Long-Term Memory](https://learninglink.oup.com/access/content/ensley-student-resources/ensley-chapter-4-chapter-summary)，赫布的假設，以及布利斯和勒莫 1973 年在海馬迴發現長期增益作用。
+- PubMed Central：[PMC7058229](https://pmc.ncbi.nlm.nih.gov/articles/PMC7058229)，布利斯與勒莫在麻醉兔子的海馬迴做高頻刺激實驗。
+- Maguire et al., PNAS, 2000：[Navigation-related structural change in the hippocampi of taxi drivers](https://pmc.ncbi.nlm.nih.gov/articles/PMC18253)，倫敦計程車司機的海馬迴後段較大，且與年資正相關。
+- 天下雜誌：[神經科學書為何在台爆紅？專訪《神經可塑性》作者](https://www.cw.com.tw/article/5141940)，誠品與博客來上半年暢銷榜第三名。
+- LINE TODAY：[《神經可塑性》暢銷報導](https://today.line.me/tw/v3/article/8nLx5ZR)，2026 年上半年暢銷、神經可塑性的定義。
