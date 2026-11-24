@@ -224,9 +224,9 @@ Breuer 靠催眠讓安娜．歐說出往事，但不是每個病人都進得了�
 
 - 自我心理學（ego psychology）：安娜．佛洛伊德和 Heinz Hartmann 把重心從本我移到自我，看自我怎麼適應現實。艾瑞克森也屬於這一派。
 - [[客體關係理論 Object Relations Theory|客體關係理論]]（object relations theory）：「客體」指的是別人。Melanie Klein、Donald Winnicott 等人研究嬰兒和照顧者的關係，怎麼在心裡留下影響一生的人際模板。
-- 自體心理學（self psychology）：Heinz Kohut 認為，人靠別人的同理和肯定發展出穩定的自我感，因此強調治療中的同理。
+- [[自體心理學 Self Psychology|自體心理學]]（self psychology）：Heinz Kohut 認為，人靠別人的同理和肯定發展出穩定的自我感，因此強調治療中的同理。
 - 關係取向（relational psychoanalysis）：認為人的內在結構由人際經驗塑造，而不是本能；治療的重心放在分析師和個案此時此刻的關係。
-- 新佛洛伊德學派：著名學者有佛洛姆、荷妮，修正佛洛伊德的理論，並且強調社會與文化的影響。
+- 新佛洛伊德學派：著名學者有佛洛姆、[[荷妮的神經症理論 Karen Horney|荷妮]]，修正佛洛伊德的理論，並且強調社會與文化的影響。
 
 例如：Margaret Mahler 的分離個體化理論補充了佛洛伊德的理論，描述嬰兒怎麼從[[前伊底帕斯期]]和母親渾然一體的狀態，慢慢分化成獨立的個體。
 
