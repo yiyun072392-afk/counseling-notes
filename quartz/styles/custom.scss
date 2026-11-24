@@ -251,3 +251,83 @@ body[data-slug="index"] {
     display: none;
   }
 }
+
+// 小測驗：> [!quiz] 小測驗（互動部分由 plugins/quiz 產生）
+.callout[data-callout="quiz"] {
+  --color: var(--secondary);
+  --bg: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: var(--radius);
+  background: var(--bg);
+
+  .quiz-q {
+    margin: 0.75rem 0 1.25rem;
+  }
+  .quiz-stem {
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+  }
+  .quiz-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .quiz-option {
+    text-align: left;
+    font: inherit;
+    color: var(--dark);
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: var(--radius);
+    padding: 0.55rem 0.8rem;
+    cursor: pointer;
+    transition: border-color 0.15s;
+    &:hover:not(:disabled) {
+      border-color: var(--secondary);
+    }
+    &:disabled {
+      cursor: default;
+    }
+    &.is-correct {
+      border: 2px solid #2e8b57;
+      background: rgba(46, 139, 87, 0.12);
+    }
+    &.is-wrong {
+      border: 2px solid #c0392b;
+      background: rgba(192, 57, 43, 0.12);
+    }
+  }
+  .quiz-feedback p {
+    margin: 0.4rem 0 0;
+    font-size: 0.95em;
+  }
+  .quiz-verdict.ok {
+    color: #2e8b57;
+    font-weight: 600;
+  }
+  .quiz-verdict.ng {
+    color: #c0392b;
+    font-weight: 600;
+  }
+  .quiz-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border-top: 1px solid var(--lightgray);
+    padding-top: 0.6rem;
+  }
+  .quiz-score {
+    margin: 0;
+    color: var(--darkgray);
+  }
+  .quiz-reset {
+    font: inherit;
+    color: var(--secondary);
+    background: none;
+    border: 1px solid var(--secondary);
+    border-radius: var(--radius);
+    padding: 0.3rem 0.8rem;
+    cursor: pointer;
+  }
+}
