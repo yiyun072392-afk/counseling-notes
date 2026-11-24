@@ -2,7 +2,7 @@
 title: "個人中心治療 Person-Centered Therapy"
 ---
 
-個人中心治療（Person-Centered Therapy）由 Carl R. Rogers 創立，相信人本身就有成長的力量，心理師要做的是提供一段好的關係，而不是替個案「治好」什麼。它看待人的方式和強調早年創傷與潛意識的 [[精神分析治療 Psychoanalytic therapy]] 正好相反，可以對照閱讀。
+個人中心治療（Person-Centered Therapy）由 Carl R. Rogers 創立，相信人本身就有成長的力量，心理師要做的是提供一段好的關係，而不是替個案「治好」什麼。它看待人的方式和強調早年創傷與潛意識的 [[精神分析 Psychoanalysis|精神分析治療]] 正好相反，可以對照閱讀。
 
 ## 個人中心治療的核心概念是什麼？
 個人中心治療的核心概念是「真誠一致」、「無條件積極關懷」和「正確同理心」。
