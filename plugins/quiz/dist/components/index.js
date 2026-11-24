@@ -61,7 +61,7 @@ document.addEventListener("nav", () => {
     let right = 0
     const updateScore = () => {
       score.textContent = answered === questions.length
-        ? "答對 " + right + " / " + questions.length + " 題"
+        ? "正確 " + right + " / " + questions.length + " 題"
         : "已作答 " + answered + " / " + questions.length + " 題"
     }
 
@@ -98,7 +98,7 @@ document.addEventListener("nav", () => {
             if (!o.correct) b.classList.add("is-wrong")
             const verdict = document.createElement("p")
             verdict.className = "quiz-verdict " + (o.correct ? "ok" : "ng")
-            verdict.textContent = o.correct ? "答對了！" : "答錯了。"
+            verdict.textContent = o.correct ? "正確" : "錯誤"
             feedback.appendChild(verdict)
             if (o.why) {
               const p = document.createElement("p")
