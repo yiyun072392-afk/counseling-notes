@@ -208,6 +208,12 @@ plugins:
     layout:
       position: afterBody
       priority: 6
+  # 故事區塊後面自動插入可點擊跳轉的目錄
+  - source: ./plugins/story-toc
+    enabled: true
+    layout:
+      position: afterBody
+      priority: 7
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -292,7 +298,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

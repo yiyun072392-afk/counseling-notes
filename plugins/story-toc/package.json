@@ -1,0 +1,30 @@
+{
+  "name": "story-toc",
+  "version": "1.0.0",
+  "description": "在文章開頭的故事區塊後面，自動插入可以點擊跳轉的目錄",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "story-toc",
+    "displayName": "StoryToc",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "StoryToc": {
+        "displayName": "StoryToc",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 7
+      }
+    }
+  }
+}
