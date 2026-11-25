@@ -361,4 +361,8 @@ body[data-slug="index"] {
   li {
     margin: 0.15rem 0;
   }
+  a.internal {
+    background-color: transparent;
+    padding: 0;
+  }
 }
