@@ -38,14 +38,14 @@ const groups = [
   },
 ]
 
-// 把分類區塊移到首頁介紹文字之後、筆記列表之前；沒有 JavaScript 時就留在頁面最下面
+// 把分類區塊移到首頁故事卡片之後、「其他筆記」之前；沒有 JavaScript 時就留在頁面最下面
 const script = `
 document.addEventListener("nav", () => {
   const section = document.querySelector(".home-cards")
   const article = document.querySelector(".markdown-rendered")
   if (!section || !article) return
-  const firstHeading = article.querySelector(":scope > h2")
-  firstHeading ? article.insertBefore(section, firstHeading) : article.appendChild(section)
+  const target = [...article.querySelectorAll(":scope > h2")].find((h) => h.textContent.trim() === "其他筆記")
+  target ? article.insertBefore(section, target) : article.appendChild(section)
 })
 `
 

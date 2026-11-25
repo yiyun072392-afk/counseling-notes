@@ -111,6 +111,78 @@ body[data-slug="index"] {
   }
 }
 
+// 首頁的故事卡片：清單項目開頭有 <span class="story-year"> 就變成故事卡片
+// 整張卡片都能點；之後在項目裡加一張圖 ![](圖片網址)，就會變成淡淡的底圖
+body[data-slug="index"] .markdown-rendered > ul:has(> li > .story-year) {
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+
+  & > li {
+    position: relative;
+    overflow: hidden;
+    min-height: 7.5rem;
+    padding: 1rem 1.1rem 1.1rem;
+    border-left: 4px solid var(--secondary);
+
+    & > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    // 故事標題
+    & > a {
+      position: static;
+      font-size: 1.05rem;
+      font-weight: 600;
+      line-height: 1.45;
+      margin-bottom: 0.45rem;
+
+      &::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: 2;
+      }
+    }
+
+    // 歷史照片當底圖
+    & > img {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      object-fit: cover;
+      opacity: 0.16;
+      filter: grayscale(1) sepia(0.35);
+      pointer-events: none;
+    }
+  }
+}
+
+.story-year {
+  position: static !important;
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--secondary);
+
+  // 右下角放大的淡色年份
+  &[data-y]::after {
+    content: attr(data-y);
+    position: absolute;
+    right: 0.5rem;
+    bottom: -0.9rem;
+    z-index: 0;
+    font-size: 3.8rem;
+    letter-spacing: 0;
+    color: var(--secondary);
+    opacity: 0.09;
+    pointer-events: none;
+  }
+}
+
 // 分類卡片（由 plugins/home-cards 產生）：三層，由基礎到應用
 .home-cards {
   margin: 2rem 0 3rem;
@@ -249,6 +321,17 @@ body[data-slug="index"] {
 
   .home-card-desc {
     display: none;
+  }
+
+  // 故事卡片在手機上縮短，才不會滑很久
+  body[data-slug="index"] .markdown-rendered > ul:has(> li > .story-year) > li {
+    min-height: 0;
+    padding: 0.8rem 1rem;
+  }
+
+  .story-year[data-y]::after {
+    font-size: 2.8rem;
+    bottom: -0.7rem;
   }
 }
 
