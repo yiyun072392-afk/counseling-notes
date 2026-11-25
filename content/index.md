@@ -37,6 +37,7 @@ title: Kuripsy 故事心理學
 
 - <span class="story-year" data-y="1880">1880</span>![沃特豪斯〈賽姬打開金盒〉，1903](<https://commons.wikimedia.org/wiki/Special:FilePath/Psyche-Waterhouse.jpg?width=640>)[[精神分析 Psychoanalysis|她喝不下水，直到說出那段往事]]精神分析：潛意識、本我自我超我和防衛機制
 - <span class="story-year" data-y="1896">1896</span>![安格爾〈伊底帕斯與斯芬克斯〉](<https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique_Ingres_-_Oedipus_and_the_Sphinx_-_Walters_379.jpg?width=640>)[[伊底帕斯情結 Oedipus Complex|父親過世後，他開始分析自己]]伊底帕斯情結：孩子、父母和超我
+- <span class="story-year">神話</span>![安格爾〈伊底帕斯解開斯芬克斯之謎〉](<https://commons.wikimedia.org/wiki/Special:FilePath/IngresOdipusAndSphinx.jpg?width=640>)[[心理社會發展階段|早上四隻腳，中午兩隻腳，傍晚三隻腳]]心理社會發展階段：艾瑞克森的八個人生關卡
 - <span class="story-year" data-y="1895">1895</span>![蓋蘭〈摩耳甫斯與伊里斯〉，1811](<https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Narcisse_Gu%C3%A9rin_-_Morpheus_and_Iris_-_WGA10971.jpg?width=640>)[[夢的解析 The Interpretation of Dreams|度假時的一場夢，變成一本書]]夢的解析：願望、顯夢和隱夢
 - <span class="story-year" data-y="1900">1900</span>![傑洛姆〈皮格馬利翁與伽拉忒亞〉，1890](<https://commons.wikimedia.org/wiki/Special:FilePath/Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Pygmalion_and_Galatea,_ca._1890.jpg?width=640>)[[移情與反移情 Transference and Countertransference|十八歲的病人，十一週就離開]]移情與反移情：個案把過去的關係帶進治療室
 - <span class="story-year" data-y="1909">1909</span>![喬治華盛頓號郵輪，1909](<https://commons.wikimedia.org/wiki/Special:FilePath/George_Washington_Dampfer.jpg?width=640>)[[分析心理學 Analytical Psychology|開往紐約的郵輪上，兩人互相解夢]]分析心理學：集體潛意識、原型和個體化
@@ -54,8 +55,7 @@ title: Kuripsy 故事心理學
 - [[失語症 Aphasia]] — 聽得懂卻說不出，或說得流利卻沒有意義：七種失語症怎麼分
 - [[自律神經系統 Autonomic Nervous System]] — 交感和副交感神經怎麼分工
 
-### 發展與社會
-- [[心理社會發展階段]] — 艾瑞克森的八個人生階段，和每個階段的核心衝突
+### 社會
 - [[社會心理學導論]] — 人怎麼解讀情境，又為什麼常把錯怪到別人身上
 
 ### 精神分析
