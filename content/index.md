@@ -2,7 +2,7 @@
 title: Kuripsy 故事心理學
 ---
 
-每篇筆記都從一段真實的故事開始，點開卡片，就能讀到故事背後的大腦和理論。
+每篇筆記都從一段故事開始，點開卡片，就能讀到故事背後的大腦和理論。
 
 我把散在紙本、Google 文件和 Notion 的筆記搬到這裡，自己複習，也分享給大家。
 
@@ -10,7 +10,7 @@ title: Kuripsy 故事心理學
 
 ## 從這裡開始
 
-- <span class="story-year" data-y="1848">1848</span>[[額葉 Frontal Lobe|一根鐵棍穿過工頭的頭]]額葉：計畫、控制衝動和說話
+- <span class="story-year" data-y="1848">1848</span>![哈洛畫的蓋吉頭骨，1868](<https://commons.wikimedia.org/wiki/Special:FilePath/Phineas_gage_-_1868_skull_diagram.jpg>)[[額葉 Frontal Lobe|一根鐵棍穿過工頭的頭]]額葉：計畫、控制衝動和說話
 - <span class="story-year" data-y="1953">1953</span>[[顳葉 Temporal Lobe|手術後，他再也記不住新的事]]顳葉：海馬迴、記憶和語言理解
 - <span class="story-year" data-y="1952">1952</span>[[依附理論 Attachment Theory|兩歲女孩住院八天，媽媽不能陪]]依附理論：四種依附類型，和長大後的親密關係
 
@@ -18,15 +18,15 @@ title: Kuripsy 故事心理學
 
 由下往上讀：先看整個神經系統，再從脊髓一路往上到大腦皮質。
 
-- <span class="story-year" data-y="1780">1780 年代</span>[[神經系統|死掉的青蛙腿，碰到金屬就踢]]神經系統：中樞與周圍、軀體與自律，先看整張地圖
-- <span class="story-year" data-y="1873">1873</span>[[神經元 Neuron|醫師在廚房裡染出神經元]]神經元：訊號怎麼在細胞之間傳遞
-- <span class="story-year">古埃及</span>[[脊髓 Spinal Cord|三千年前的判斷：不予治療]]脊髓：大腦和身體之間的訊號通道
+- <span class="story-year" data-y="1780">1780 年代</span>![伽伐尼的青蛙腿實驗圖，1791](<https://commons.wikimedia.org/wiki/Special:FilePath/Galvani_frog_legs_experiment_setup.png?width=640>)[[神經系統|死掉的青蛙腿，碰到金屬就踢]]神經系統：中樞與周圍、軀體與自律，先看整張地圖
+- <span class="story-year" data-y="1873">1873</span>![卡哈爾手繪的浦金氏細胞，1899](<https://commons.wikimedia.org/wiki/Special:FilePath/PurkinjeCell.jpg?width=640>)[[神經元 Neuron|醫師在廚房裡染出神經元]]神經元：訊號怎麼在細胞之間傳遞
+- <span class="story-year">古埃及</span>![艾德溫．史密斯紙草](<https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Smith_Papyrus_v2.jpg?width=640>)[[脊髓 Spinal Cord|三千年前的判斷：不予治療]]脊髓：大腦和身體之間的訊號通道
 - <span class="story-year" data-y="1971">1971</span>[[軀體神經系統 Somatic Nervous System|十九歲那年，他感覺不到自己的身體]]軀體神經系統：本體感覺和隨意動作
 - <span class="story-year" data-y="1995">1995</span>[[腦幹 Brainstem|只剩左眼能眨，他寫完一本書]]腦幹：閉鎖症候群、呼吸心跳和腦神經
 - <span class="story-year">虛構</span>[[小腦 Cerebellum|天才外科醫師的手，越靠近越抖]]小腦：動作協調，也參與認知和情緒
 - <span class="story-year">虛構</span>[[間腦 Diencephalon|觀眾一笑，他就癱坐在地]]間腦：視丘轉送感覺，下視丘管睡眠和身體
 - <span class="story-year" data-y="1930">1930 年代</span>[[大腦皮質 Cerebral Cortex|醫生碰他的腦，他的大拇指就跳]]大腦皮質：四個腦葉和皮質小人
-- <span class="story-year" data-y="1848">1848</span>[[額葉 Frontal Lobe|一根鐵棍穿過工頭的頭]]額葉：計畫、控制衝動和說話
+- <span class="story-year" data-y="1848">1848</span>![哈洛畫的蓋吉頭骨，1868](<https://commons.wikimedia.org/wiki/Special:FilePath/Phineas_gage_-_1868_skull_diagram.jpg>)[[額葉 Frontal Lobe|一根鐵棍穿過工頭的頭]]額葉：計畫、控制衝動和說話
 - <span class="story-year" data-y="1967">1967</span>[[頂葉 Parietal Lobe|畫家中風後，自畫像只剩右半邊]]頂葉：觸覺、空間和半側忽略
 - <span class="story-year" data-y="1904">1904</span>[[枕葉 Occipital Lobe|後腦中彈的士兵，視野缺一塊]]枕葉：視覺皮質和視野缺損
 - <span class="story-year" data-y="1953">1953</span>[[顳葉 Temporal Lobe|手術後，他再也記不住新的事]]顳葉：海馬迴、記憶和語言理解
