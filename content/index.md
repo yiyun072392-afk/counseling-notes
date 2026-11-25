@@ -31,6 +31,10 @@ title: Kuripsy 故事心理學
 - <span class="story-year" data-y="1904">1904</span>![《格雷氏解剖學》的視覺路徑圖](<https://commons.wikimedia.org/wiki/Special:FilePath/Gray722.png?width=640>)[[枕葉 Occipital Lobe|後腦中彈的士兵，視野缺一塊]]枕葉：視覺皮質和視野缺損
 - <span class="story-year" data-y="1953">1953</span>![卡哈爾手繪的海馬迴，1911](<https://commons.wikimedia.org/wiki/Special:FilePath/CajalHippocampus_(modified).png?width=640>)[[顳葉 Temporal Lobe|手術後，他再也記不住新的事]]顳葉：海馬迴、記憶和語言理解
 
+## 人怎麼被情境改變
+
+- <span class="story-year" data-y="2004">2004</span>![華爾街，1867 年的版畫](<https://commons.wikimedia.org/wiki/Special:FilePath/Wall_street_1867.jpg?width=640>)[[社會心理學導論|同一個遊戲，換個名字就換了人性]]社會心理學：情境、識解和基本歸因謬誤
+
 ## 精神分析和它的後繼者
 
 從佛洛伊德開始，看後來的人怎麼延伸他、反駁他。
@@ -54,9 +58,6 @@ title: Kuripsy 故事心理學
 ### 大腦
 - [[失語症 Aphasia]] — 聽得懂卻說不出，或說得流利卻沒有意義：七種失語症怎麼分
 - [[自律神經系統 Autonomic Nervous System]] — 交感和副交感神經怎麼分工
-
-### 社會
-- [[社會心理學導論]] — 人怎麼解讀情境，又為什麼常把錯怪到別人身上
 
 ### 精神分析
 - [[自我防衛機制 Ego-defense mechanisms]] — 自我擋不住焦慮時，會用的 24 種策略
