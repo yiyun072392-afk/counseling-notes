@@ -13,7 +13,7 @@ tags:
 ← [[精神分析 Psychoanalysis]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://en.wikipedia.org/wiki/Dora_(case_study))。）
 >
 > 1900 年秋天，一名富商把十八歲的女兒帶進維也納一間診所。
 >
@@ -37,7 +37,7 @@ tags:
 >
 > 她離開的方式，就是她對待 K 先生的方式。
 
-這名女孩是佛洛伊德筆下的「朵拉」（Dora），本名 Ida Bauer。
+這名女孩是佛洛伊德筆下的「朵拉」（Dora），本名 [Ida Bauer](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/bauer-ida-1882-1945)。
 
 佛洛伊德在 1905 年發表這個案例，並在後記裡承認治療失敗。
 
@@ -45,7 +45,7 @@ tags:
 
 佛洛伊德事後回頭看，找到自己忽略的一件事：
 
-朵拉把對 K 先生的感情，轉移到他身上。
+朵拉把對 K 先生的感情，轉移到佛洛伊德身上。
 
 - 朵拉曾經用給 K 先生一個耳光的方式離開 K 先生。
 - 朵拉也用不告而別的方式離開佛洛伊德。
@@ -82,7 +82,7 @@ tags:
 
 ## 反移情是什麼
 
-反移情（countertransference）是治療師對個案產生的情緒反應，例如厭煩、保護欲、生氣或受到吸引。
+反移情（countertransference）是治療師對個案產生的情緒反應，例如厭煩、保護欲、生氣或對個案動心。
 
 精神分析看待反移情的方式，後來有很大的轉變。
 
@@ -135,12 +135,3 @@ tags:
 ## 待補
 
 - 當代的研究：移情詮釋的效果，以及治療同盟的關係。
-
-## 參考資料
-
-- Freud, S. (1905). Fragment of an Analysis of a Case of Hysteria。
-- Freud, S. (1910). The Future Prospects of Psycho-Analytic Therapy。
-- Heimann, P. (1950). On Counter-Transference. International Journal of Psychoanalysis, 31, 81–84。
-- [Dora (case study)（Wikipedia）](https://en.wikipedia.org/wiki/Dora_(case_study))
-- [Bauer, Ida (1882–1945)（Encyclopedia.com）](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/bauer-ida-1882-1945)
-- Corey, G.《諮商與心理治療的理論與實務》精神分析章。

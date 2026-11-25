@@ -13,7 +13,7 @@ tags:
 ← [[精神分析 Psychoanalysis]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/irmas-injection-dream)。）
 >
 > 1895 年夏天，一名維也納醫生在郊外的別墅度假。
 >
@@ -21,7 +21,7 @@ tags:
 >
 > 某天，一位同事帶來女病人的消息：
 >
-> 「她好了一點，但還沒完全好。」
+> 「她有好轉，但還沒完全好。」
 >
 > 醫生聽出話中帶刺，心裡很不舒服。
 >
@@ -41,7 +41,7 @@ tags:
 >
 > 女病人沒好，不是他的錯。
 
-這名醫生就是佛洛伊德，這個夢後來叫做「伊爾瑪打針之夢」，是他第一個從頭到尾仔細分析的夢。
+這名醫生就是佛洛伊德，這個夢後來叫做[「伊爾瑪打針之夢」](https://en.wikipedia.org/wiki/Irma%27s_injection)，是他第一個從頭到尾仔細分析的夢。
 
 五年後，他寫信給好友開玩笑說：
 
@@ -53,11 +53,11 @@ tags:
 
 > 夢不是大腦的胡言亂語，而是潛意識願望的滿足。
 
-佛洛伊德的最真實的願望不是「女病人順利康復」而是「病人沒好不是我的錯」。
+佛洛伊德最真實的願望不是「女病人順利康復」，而是「病人沒好不是我的錯」。
 
 於是，夢就把責任推到同事身上，替他實現這個願望。
 
-1899 年底，佛洛伊德出版一本鉅著，主張夢是通往[[精神分析 Psychoanalysis#心靈的三層：意識、前意識、潛意識|潛意識]]的康莊大道——那本書的標題是《夢的解析》。
+1899 年底，佛洛伊德[出版一本鉅著](https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams)，主張夢是通往[[精神分析 Psychoanalysis#心靈的三層：意識、前意識、潛意識|潛意識]]的康莊大道——那本書的標題是《夢的解析》。
 
 ## 顯夢與隱夢
 
@@ -66,7 +66,9 @@ tags:
 - 顯夢（manifest content）：醒來後記得的夢境畫面和情節，例如：轉達消息的同事，病人喉嚨痛和針筒不乾淨。
 - 隱夢（latent content）：藏在夢境影像後面的潛台詞，內心深處的潛意識願望，例如：「病人沒有康復不是我的錯」。
 
-願望太危險或太丟臉卻直接出現在夢境裡的話，恐怕會嚇醒自己，打擾睡眠，所以心裡有一道關卡會檢查願望，把隱夢偽裝成顯夢。
+願望太危險或太丟臉，直接出現在夢境裡，恐怕會嚇醒自己、打擾睡眠。
+
+所以心裡有一道關卡會檢查願望，把隱夢偽裝成顯夢。
 
 佛洛伊德把這個檢查和偽裝，稱作「夢的審查」（dream censorship）。
 
@@ -103,7 +105,7 @@ tags:
 
 ### 腦科學：夢是大腦在睡眠中的活動
 
-- 1953 年，研究者發現快速動眼期（REM 睡眠），大部分生動的夢都出現在這個階段。
+- 1953 年，Aserinsky 和 Kleitman 發現快速動眼期（REM 睡眠），大部分生動的夢都出現在這個階段。
 - 1977 年，Hobson 和 McCarley 提出活化綜合假說：[[腦幹 Brainstem|腦幹]]在 REM 睡眠時隨機放電，大腦皮質再把這些訊號編成故事，夢不一定有隱藏的意義。
 
 ### 當代的折衷
@@ -123,12 +125,3 @@ tags:
 ## 待補
 
 - 惡夢和創傷後的重複夢境，佛洛伊德後來在《超越快樂原則》裡修正自己的理論。
-
-## 參考資料
-
-- Freud, S. (1900). The Interpretation of Dreams。
-- [Irma's injection（Wikipedia）](https://en.wikipedia.org/wiki/Irma%27s_injection)
-- [Irma's Injection, Dream of（Encyclopedia.com）](https://encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/irmas-injection-dream)
-- [The Interpretation of Dreams（Wikipedia）](https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams)
-- Aserinsky, E., & Kleitman, N. (1953). Regularly occurring periods of eye motility, and concomitant phenomena, during sleep. Science, 118, 273–274。
-- Hobson, J. A., & McCarley, R. W. (1977). The brain as a dream state generator. American Journal of Psychiatry, 134, 1335–1348。

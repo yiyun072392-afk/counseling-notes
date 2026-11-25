@@ -102,12 +102,3 @@ tags:
 ## 待補
 
 - 小漢斯怕馬的案例（1909），可以留給性心理發展階段的故事。
-
-## 參考資料
-
-- Freud, S. (1897, Oct 15). Letter to Wilhelm Fliess. In J. M. Masson (Ed.), The Complete Letters of Sigmund Freud to Wilhelm Fliess, 1887–1904.
-- Freud, S. (1900). The Interpretation of Dreams。
-- Freud, S. (1923). The Ego and the Id。
-- Freud, S. (1924). The Dissolution of the Oedipus Complex。
-- Malinowski, B. (1927). Sex and Repression in Savage Society。
-- Corey, G.《諮商與心理治療的理論與實務》精神分析章。

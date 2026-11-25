@@ -10,7 +10,7 @@ tags:
 ← [[神經系統]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://www.the-scientist.com/proprioception-the-sense-within-32940)。）
 >
 > 1971 年的英國，一名十九歲的年輕人在肉舖工作。
 >
@@ -26,7 +26,7 @@ tags:
 >
 > 很長一段時間，他只能坐在輪椅上。
 >
-> 後來他開始用眼睛盯著自己的每一個動作，一步一步重新學走路。
+> 後來他開始用眼睛盯著自己的每一個動作，一步一步重新[學走路](https://learninglink.oup.com/public/files/cdn/wolfe4e/essay13.01.html)。
 >
 > 最後，他真的重新站起來走路。
 >
@@ -34,7 +34,7 @@ tags:
 
 他的問題是：肌肉能動，卻無法感知身體，進而無法協調動作。
 
-那場病毒感染引發自體免疫反應：他的免疫系統攻擊自己脖子以下的感覺神經，毀掉負責把觸覺和身體位置送回腦的「軀體神經系統」。
+那場病毒感染引發[自體免疫反應](https://pubmed.ncbi.nlm.nih.gov/29510103/)：他的免疫系統攻擊自己脖子以下的感覺神經，毀掉負責把觸覺和身體位置送回腦的「軀體神經系統」。
 
 這名年輕人叫伊恩．沃特曼（Ian Waterman）。
 
@@ -42,14 +42,14 @@ tags:
 
 ## 軀體神經系統是什麼
 
-軀體神經系統是[[神經系統#周圍神經系統 Peripheral Nervous System|周圍神經系統]]的一部分，負責連接腦和脊髓，以及皮膚、肌肉、關節。
+[軀體神經系統](https://en.wikipedia.org/wiki/Somatic_nervous_system)是[[神經系統#周圍神經系統 Peripheral Nervous System|周圍神經系統]]的一部分，負責連接腦和脊髓，以及皮膚、肌肉、關節。
 
 軀體神經系統的訊號走兩個方向：
 
-- 往內傳遞：感覺神經把皮膚、肌肉、關節的感覺送進腦和脊髓，叫傳入神經（afferent）
+- 往內傳遞：感覺神經把皮膚、肌肉、關節的感覺送進腦和脊髓，叫[傳入神經](https://www.ncbi.nlm.nih.gov/books/NBK556027/)（afferent）
 - 往外傳遞：運動神經把腦和脊髓的指令送到骨骼肌，讓肌肉收縮，叫傳出神經（efferent）
 
-沃特曼壞掉的是往內傳遞的那一半，往外傳遞的那一半完好無缺。所以他的肌肉聽得到指令，腦卻收不到肌肉動完之後的回報。
+沃特曼壞掉的神經，是往內傳遞的那一半；往外傳遞的那一半完好無缺。所以他的肌肉聽得到指令，腦卻收不到肌肉動完之後的回報。
 
 > [!quiz] 小測驗
 > 1. 把皮膚、肌肉、關節的感覺送進腦和脊髓的叫什麼？
@@ -63,7 +63,7 @@ tags:
 
 ## 看不見的第六感：本體感覺
 
-沃特曼失去的感覺裡，最要命的是本體感覺（proprioception）。
+沃特曼失去的感覺裡，最要命的是[本體感覺](https://blog.oup.com/2016/06/movement-without-touch-ian-waterman/)（proprioception）。
 
 本體感覺是腦知道身體各部位在哪裡、正在做什麼的感覺。它來自肌肉和關節裡的感覺接受器，透過軀體神經系統的感覺神經送回腦。
 
@@ -112,7 +112,7 @@ tags:
 
 ## 運動神經怎麼讓肌肉收縮
 
-沃特曼的肌肉聽得到指令，靠的是運動神經末端和肌肉之間的接點，叫神經肌肉接合處（neuromuscular junction）。
+沃特曼的肌肉聽得到指令，靠的是運動神經末端和肌肉之間的接點，叫[神經肌肉接合處](https://www.statpearls.com/point-of-care/25815)（neuromuscular junction）。
 
 它其實就是一種[[神經元 Neuron#訊號怎麼跳到下一個神經元|突觸]]，只是另一端換成肌肉：
 
@@ -123,9 +123,9 @@ tags:
 
 這個接點出問題，腦的指令就送不到肌肉。
 
-重症肌無力（myasthenia gravis）就是例子：免疫系統製造抗體，占住並破壞肌肉上的乙醯膽鹼接受器。肌肉越用越無力，一到傍晚就特別明顯。
+[重症肌無力](https://www.ncbi.nlm.nih.gov/books/NBK559331/)（myasthenia gravis）就是例子：免疫系統製造抗體，占住並破壞肌肉上的乙醯膽鹼接受器。肌肉越用越無力，一到傍晚就特別明顯。
 
-沃特曼和重症肌無力的病人，都是自己的免疫系統翻臉攻擊自己，弄壞的方向卻剛好相反：一個弄壞往內傳遞的感覺神經，一個弄壞往外傳遞的最後一站。
+沃特曼和重症肌無力的病人，都是自己的免疫系統翻臉攻擊自己，破壞的方向卻剛好相反：一個破壞往內傳遞的感覺神經，一個破壞往外傳遞的最後一站。
 
 > [!quiz] 小測驗
 > 1. 運動神經末端在神經肌肉接合處釋放哪一種神經傳導物質？
@@ -164,7 +164,7 @@ tags:
 - 本體感覺告訴腦身體各部位在哪裡，是動作協調的關鍵。
 - 軀體神經系統的神經包括腦神經和三十一對脊神經。
 - 運動神經在神經肌肉接合處釋放乙醯膽鹼，讓骨骼肌收縮。
-- 軀體神經系統的運動雖然可以用意識決定，但同樣經由軀體神經系統的感覺接受和反射不行。
+- 軀體神經系統的運動可以用意識決定，但經由它傳遞的感覺和反射，意識決定不了。
 
 > [!quiz] 總複習
 > 1. 沃特曼的狀況是怎麼引起的？
@@ -191,15 +191,3 @@ tags:
 ## 待補
 
 - 腦神經那頁寫好後，在「哪些神經屬於軀體神經系統」加上連結
-
-## 參考資料
-
-- The Scientist：[Proprioception: The Sense Within](https://www.the-scientist.com/proprioception-the-sense-within-32940)，1971 年、十九歲、病毒性腸胃炎引發自體免疫反應。
-- PubMed：[PMID 29510103](https://pubmed.ncbi.nlm.nih.gov/29510103/)，自體免疫反應攻擊脖子以下的感覺神經元，失去位置、動作與觸覺。
-- OUPblog, Jonathan Cole：[Movement without touch: the life of Ian Waterman](https://blog.oup.com/2016/06/movement-without-touch-ian-waterman/)，運動神經沒事、痛覺和溫度覺還在，靠視覺和專注重新學會動作。
-- Wolfe et al., Sensation & Perception：[Living without Kinesthesis](https://learninglink.oup.com/public/files/cdn/wolfe4e/essay13.01.html)，一開始坐輪椅，後來看著腳走路。
-- Radiolab：[The Butcher's Assistant](https://radiolab.org/podcast/91526-the-butchers-assistant/transcript)，他失去了一類負責感覺的周圍神經細胞。
-- StatPearls：[Neuroanatomy, Somatic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK556027/)，控制骨骼肌的隨意動作，有傳入與傳出神經。
-- StatPearls：[Physiology, Neuromuscular Junction](https://www.statpearls.com/point-of-care/25815)，乙醯膽鹼結合肌肉上的接受器，鈉離子流入引發收縮；酵素在間隙快速分解乙醯膽鹼。
-- StatPearls：[Myasthenia Gravis](https://www.ncbi.nlm.nih.gov/books/NBK559331/)，自體抗體攻擊乙醯膽鹼接受器，肌肉無力越用越重、一天中慢慢加重。
-- Wikipedia：[Somatic nervous system](https://en.wikipedia.org/wiki/Somatic_nervous_system)，傳入、傳出的字源與組成。

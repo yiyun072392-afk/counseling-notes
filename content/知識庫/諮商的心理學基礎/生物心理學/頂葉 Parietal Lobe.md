@@ -11,9 +11,9 @@ tags:
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://bibbase.org/network/publication/butter-antonraederscheidtsdistortedselfportraitsandtheirsignificanceforunderstandingbalanceinart-2004)。）
 >
-> 1967 年的德國，一名七十多歲的畫家畫了一輩子的人像。
+> 1967 年的德國，一名七十多歲的畫家，一輩子都在畫人像。
 >
 > 他的大型回顧展就快開幕。
 >
@@ -27,19 +27,19 @@ tags:
 >
 > 畫裡的左半邊，又再度浮現。
 
-他的問題不是不會畫，而是左半邊的世界，好像消失在他的世界。
+他的問題不是不會畫，而是左半邊的世界從他的感知裡消失。
 
-這種症狀叫半側忽略（hemispatial neglect），最常出現在右腦的頂葉受損之後。
+這種症狀叫半側忽略（hemispatial neglect），[最常出現在右腦的頂葉受損之後](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00154/pdf)。
 
-頂葉除了接收身體的感覺，也負責把注意力分配到空間的各個位置，所以右邊頂葉一受傷，左邊的空間就從他的注意力裡消失了。
+頂葉除了接收身體的感覺，也負責把注意力分配到空間的各個位置，所以右邊頂葉一受傷，左邊的空間就從他的注意力裡消失。
 
-這名畫家是安東．雷德謝特（Anton Räderscheidt）。他中風後的這一系列自畫像，後來成了研究半側忽略的經典例子。
+這名畫家是安東．雷德謝特（Anton Räderscheidt）。他[中風後的這一系列自畫像](https://unitheque.com/UploadFile/DocumentPDF/N/E/UYGU-9783805582650.pdf)，後來成為研究半側忽略的經典例子。
 
 ## 半側忽略是怎麼回事
 
 病人對受損那一側的對側空間不再有反應，好像那一邊不存在。
 
-最常見的是右腦受損、忽略左邊。病灶多在右腦的後頂葉，尤其是下頂葉或顳頂交界處，原因多半是右側大腦中動脈中風。
+[最常見的是右腦受損、忽略左邊](https://www.ncbi.nlm.nih.gov/books/NBK562184/)。病灶多在右腦的後頂葉，尤其是下頂葉或顳頂交界處，原因多半是右側大腦中動脈中風。
 
 它不是單純的看不到或摸不到：
 
@@ -47,7 +47,7 @@ tags:
 - 出問題的是注意力
 - 病人常常沒有自覺，可能只吃盤子右半邊的飯、只刮右半邊的臉，卻不覺得哪裡奇怪
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4FhZs-m7hA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=d4FhZs-m7hA)
 
 > [!quiz] 小測驗
 > 1. 半側忽略出問題的是什麼？
@@ -70,7 +70,7 @@ tags:
 可以把左右腦想成公司裡的兩名員工：
 
 - 右腦是能力強的員工，左右兩邊的事都扛。他一離職，剩下的人只顧得了右邊，左邊的事沒人管，整間公司兵荒馬亂。
-- 左腦是免洗筷員工，只負責右邊。他走了，能力強的那位還扛得住，公司照常運作。
+- 左腦是免洗筷員工，只負責右邊。他離職，能力強的那位還扛得住，公司照常運作。
 
 也因為眼睛和感覺器官都沒壞，復健可以從注意力下手，例如提醒病人把視線帶回左側。
 
@@ -90,10 +90,10 @@ tags:
 
 頂葉在[[大腦皮質 Cerebral Cortex|大腦皮質]]中央溝的後方，從前往後有兩種工作：
 
-- 初級體感覺皮質（primary somatosensory cortex）：在最前面、緊貼中央溝的中央後回，負責接收從身體傳來的觸覺、痛覺
-- 後頂葉：負責把各種感覺整合起來、判斷東西在空間裡的位置，也參與較高階的視覺處理
+- [初級體感覺皮質](https://www.ncbi.nlm.nih.gov/books/NBK537247/)（primary somatosensory cortex）：在最前面、緊貼中央溝的中央後回，負責接收從身體傳來的觸覺、痛覺
+- [後頂葉](https://openbooks.lib.msu.edu/neuroscience/chapter/external-brain-anatomy/)：負責把各種感覺整合起來、判斷東西在空間裡的位置，也參與較高階的視覺處理
 
-畫家傷到的，就是後面整合感覺的這一區塊。
+畫家傷到的腦區，就是後頂葉裡負責整合感覺的這一區塊。
 
 > [!quiz] 小測驗
 > 1. 頂葉最前面的中央後回負責什麼？
@@ -138,13 +138,3 @@ tags:
 ## 待補
 
 - 左腦頂葉受損的其他症狀
-
-## 參考資料
-
-- Butter, C.：[Anton Raederscheidt's distorted self-portraits and their significance for understanding balance in art](https://bibbase.org/network/publication/butter-antonraederscheidtsdistortedselfportraitsandtheirsignificanceforunderstandingbalanceinart-2004)，Journal of the History of the Neurosciences, 2004，自畫像顯示忽略與慢慢恢復。
-- Bäzner & Hennerici：[Painting after right-hemisphere stroke](https://unitheque.com/UploadFile/DocumentPDF/N/E/UYGU-9783805582650.pdf)，回顧展前中風、1967 年 12 月到 1969 年 6 月的自畫像系列。
-- Chatterjee：[Art and visuospatial damage](https://homepage.villanova.edu/diego.fernandezduque/Teaching/PhysiologicalPsychology/Articles/Art&VisuoSpatialDamage/anjanArt.pdf)，中風兩個月後的自畫像左半邊只有幾筆。
-- Frontiers in Human Neuroscience：[Visuo-spatial hemineglect in visual artists](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00154/pdf)，半側忽略通常和右腦頂葉受損有關。
-- StatPearls：[Spatial Neglect](https://www.ncbi.nlm.nih.gov/books/NBK562184/)，半側忽略的病灶與表現。
-- StatPearls：[Neuroanatomy, Cerebral Cortex](https://www.ncbi.nlm.nih.gov/books/NBK537247/)，體感覺皮質的位置。
-- Michigan State University Open Books：[External Brain Anatomy](https://openbooks.lib.msu.edu/neuroscience/chapter/external-brain-anatomy/)，頂葉的功能。

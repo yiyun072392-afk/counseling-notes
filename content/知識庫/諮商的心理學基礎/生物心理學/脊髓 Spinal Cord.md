@@ -9,7 +9,7 @@ tags:
 ← [[神經系統]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://kairoiai.github.io/An_Incomplete_History_of_Research_Ethics/Stories/BCE%202600%20Edwin%20Smith%20Surgical%20Papyrus.html)。）
 >
 > 三千多年前的古埃及，一名醫師在紙草上，寫下他看過的所有外傷。
 >
@@ -21,7 +21,7 @@ tags:
 >
 > 尿液自己滴流而出，他卻渾然不知。
 >
-> 每個病例最後，醫師都會寫下治療成功，有待商榷或是不治之症之類的診斷記錄。
+> 每個病例最後，醫師都會下一個判斷：能治療、可以試試，或不予治療。
 >
 > 這名男子的判斷是：
 >
@@ -37,7 +37,7 @@ tags:
 
 脫位的骨頭壓壞脖子這一段的脊髓，腦的指令就送不到手腳，手腳的感覺也送不回腦。
 
-這份目前已知最早記錄脊髓損傷的紙草，叫作艾德溫．史密斯紙草文稿（Edwin Smith Papyrus），名字來自 1862 年在埃及買下它的人。
+這份[目前已知最早記錄脊髓損傷的紙草](https://www.springermedizin.de/the-edwin-smith-papyrus-a-clinical-reappraisal-of-the-oldest-kno/8601906)，叫作[艾德溫．史密斯紙草文稿](https://faculty.washington.edu/chudler/papy.html)（Edwin Smith Papyrus），名字來自 1862 年在埃及買下它的人。
 
 ## 脊髓是什麼
 
@@ -50,7 +50,7 @@ tags:
 - 傳遞消息：把身體的感覺往上送到腦，把腦的運動指令往下送到身體
 - 處理反射：有些簡單的反應，脊髓自己就能決定，不用等腦
 
-故事裡的男子，失去的就是傳遞消息的脊髓。
+故事裡的男子，傷到的是負責傳遞消息的這一段脊髓。
 
 > [!quiz] 小測驗
 > 1. 脊髓屬於哪一套神經系統？
@@ -64,14 +64,14 @@ tags:
 
 ## 脊髓的灰質和白質
 
-把脊髓橫切開來，中間是一塊像蝴蝶、或像英文字母 H 的灰質，外面包著一圈白質。
+把脊髓橫切開來，中間是一塊像蝴蝶、或像英文字母 H 的[灰質](https://www.ncbi.nlm.nih.gov/books/NBK559056/)，外面包著一圈白質。
 
-脊髓灰白質的位置剛好和[[大腦皮質 Cerebral Cortex|大腦皮質]]相反，也就是說，脊髓的外面負責接受訊息，裡面負責傳遞訊息。
+脊髓灰白質的位置剛好和[[大腦皮質 Cerebral Cortex|大腦皮質]]相反，也就是說，脊髓外層的白質負責傳遞訊息，內層的灰質負責處理訊息。
 
 - 灰質：擠滿神經細胞的本體，負責在原地處理訊號。蝴蝶的前半負責發出運動指令，後半負責接收感覺。
 - 白質：一束束包著髓鞘的神經纖維，像上下行的高速公路，負責把訊號送到腦或從腦送下來
 
-故事裡脫位的骨頭壓壞的，主要就是外層白質的訊號公路。
+故事裡脫位的骨頭，壓壞的主要是外層白質的訊號公路。
 
 > [!quiz] 小測驗
 > 1. 脊髓橫切開來，灰質長什麼樣子、在哪裡？
@@ -85,15 +85,15 @@ tags:
 
 ## 白質裡的三條公路
 
-白質裡的訊號公路不只一條，不同的感覺和指令各走各的路：
+白質裡的訊號公路不只一條，不同的感覺和指令[各走各的路](https://www.kenhub.com/en/study/somatosensory-pathways)：
 
-- 後柱路徑（dorsal column）：把精細的觸覺、震動和本體感覺往上送到腦，到了延腦才交叉到對側
+- [後柱路徑](https://www.ncbi.nlm.nih.gov/books/NBK507888/)（dorsal column）：把精細的觸覺、震動和本體感覺往上送到腦，到了延腦才交叉到對側
 - 脊髓視丘徑（spinothalamic tract）：把痛覺、溫度覺和粗略的觸覺往上送到腦，一進脊髓就交叉到對側
 - 皮質脊髓徑（corticospinal tract）：把[[大腦皮質 Cerebral Cortex#中央溝的前後：發出動作、接收感覺|中央前回]]發出的運動指令往下送，交給脊髓灰質裡的運動神經元
 
 三條公路最後都會交叉，所以[[大腦皮質 Cerebral Cortex#中央溝的前後：發出動作、接收感覺|右腦管左半身、左腦管右半身]]。
 
-兩條感覺公路分得很清楚，所以有些病人只失去其中一種感覺。[[軀體神經系統 Somatic Nervous System|一名失去本體感覺的英國年輕人]]，觸覺和本體感覺消失，痛覺和溫度覺卻還在：他失去的，正好是後柱路徑負責的那幾種感覺。
+兩條感覺公路分得很清楚，所以有些病人只失去其中一種感覺。[[軀體神經系統 Somatic Nervous System|一名失去本體感覺的英國年輕人]]，觸覺和本體感覺消失，痛覺和溫度覺卻還在：他失去的感覺，正好是後柱路徑負責的那幾種。
 
 古埃及那名男子則不同：脫位的骨頭壓斷整段脊髓，三條公路一起中斷。
 
@@ -111,13 +111,13 @@ tags:
 
 脊髓靠脊神經和身體連起來。每一節脊髓的左右兩側，各發出一條脊神經，一共三十一對：
 
-- 頸部八對
+- [頸部八對](https://www.statpearls.com/point-of-care/849)
 - 胸部十二對
 - 腰部五對
 - 薦部五對
 - 尾部一對
 
-每一條脊神經都同時裝著感覺神經纖維和運動神經纖維，所以屬於混合神經。
+每一條脊神經都同時裝著感覺神經纖維和運動神經纖維，所以屬於[混合神經](https://www.ncbi.nlm.nih.gov/books/NBK542218/)。
 
 脊髓屬於中樞神經系統，但從脊髓出去的脊神經，屬於周圍神經系統裡的[[軀體神經系統 Somatic Nervous System|軀體神經系統]]和[[自律神經系統 Autonomic Nervous System|自律神經系統]]。
 
@@ -135,7 +135,7 @@ tags:
 
 每一條脊神經，負責接收一塊特定皮膚的感覺，這塊皮膚叫皮節（dermatome）。
 
-皮節在身上排成一條條帶子，從上往下依序排列。醫師常用幾個好記的位置當路標：
+皮節在身上排成一條條帶子，從上往下依序排列。醫師常用幾個[好記的位置](https://statpearls.com/sp/al/13/29335/)當路標：
 
 - 頸部第六節：大拇指
 - 胸部第四節：乳頭的高度
@@ -159,14 +159,16 @@ tags:
 
 ## 傷在哪一節，就癱在哪裡
 
-脊髓損傷的症狀，看的是傷在哪一節：受傷那一節以下的訊號都無法傳遞。
+脊髓損傷的症狀，看的是傷在哪一節：受傷那一節以下的訊號全部失靈。
 
-- 傷在頸部：雙手和雙腳都癱瘓，叫四肢癱瘓。故事裡的男子就是這種
+- 傷在頸部：雙手和雙腳都癱瘓，叫四肢癱瘓。[故事裡的男子](https://pmc.ncbi.nlm.nih.gov/articles/PMC3971265)就是這種
 - 傷在胸部以下：雙手正常，雙腿癱瘓，叫下半身癱瘓
 
 脊髓損傷奪走的不只有手腳功能。
 
-[[自律神經系統 Autonomic Nervous System|自律神經系統]]的訊號，也要經過脊髓才能傳到內臟，所以如果控制膀胱的神經無法正常傳遞訊號，就沒辦法控制小便，就像故事裡那位古埃及男子只能眼睜睜放任尿液滴出來。
+[[自律神經系統 Autonomic Nervous System|自律神經系統]]的訊號，也要經過脊髓才能傳到內臟。
+
+控制膀胱的神經一斷線，就沒辦法控制小便，就像故事裡那位古埃及男子，只能眼睜睜看著尿液滴出來。
 
 > [!quiz] 小測驗
 > 1. 脊髓傷在頸部，最可能出現哪一種癱瘓？
@@ -186,7 +188,7 @@ tags:
 
 醫師用小槌子敲膝蓋下方，小腿就自己往前踢。
 
-這個反應走的是一條很短的路，叫反射弧：
+這個反應走的是一條很短的路，叫[反射弧](https://www.ncbi.nlm.nih.gov/books/NBK556027/)：
 
 1. 感覺神經元把「受到敲擊」的訊號送進脊髓
 2. 訊號直送運動神經元，有些反射中間還會經過中間神經元
@@ -242,17 +244,3 @@ tags:
 ## 待補
 
 - 保護脊髓的構造：腦膜和腦脊髓液
-
-## 參考資料
-
-- Neuroscience for Kids：[The Edwin Smith Surgical Papyrus](https://faculty.washington.edu/chudler/papy.html)，三種判斷、抄寫年代與 1862 年買下的經過。
-- Kairoi：[Edwin Smith Surgical Papyrus](https://kairoiai.github.io/An_Incomplete_History_of_Research_Ethics/Stories/BCE%202600%20Edwin%20Smith%20Surgical%20Papyrus.html)，第三十一個病例的原文翻譯。
-- PubMed Central：[PMC3971265](https://pmc.ncbi.nlm.nih.gov/articles/PMC3971265)，第三十一個病例是外傷造成的四肢癱瘓。
-- Springer：[The Edwin Smith papyrus: a clinical reappraisal of the oldest known document on spinal injuries](https://www.springermedizin.de/the-edwin-smith-papyrus-a-clinical-reappraisal-of-the-oldest-kno/8601906)，第三十一個病例最早描述脊髓損傷造成的自律神經問題，包括尿失禁。
-- StatPearls：[Neuroanatomy, Spinal Cord](https://www.ncbi.nlm.nih.gov/books/NBK559056/)，三十一對脊神經、灰質在內呈 H 形、白質在外。
-- StatPearls：[Neuroanatomy, Spinal Cord Morphology](https://www.statpearls.com/point-of-care/849)，頸八、胸十二、腰五、薦五、尾一。
-- StatPearls：[Neuroanatomy, Spinal Nerves](https://www.ncbi.nlm.nih.gov/books/NBK542218/)，脊神經是混合神經，屬於周圍神經系統。
-- StatPearls：[Neuroanatomy, Somatic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK556027/)，反射弧經由中間神經元完成反射動作。
-- Kenhub：[Somatosensory pathways](https://www.kenhub.com/en/study/somatosensory-pathways)，後柱路徑傳精細觸覺與本體感覺、在延腦交叉；脊髓視丘徑傳痛覺與溫度覺、進脊髓就交叉。
-- StatPearls：[Neuroanatomy, Dorsal Column Medial Lemniscus Pathway](https://www.ncbi.nlm.nih.gov/books/NBK507888/)，後柱路徑把精細觸覺、本體感覺和震動送到中央後回。
-- StatPearls：[Anatomy, Skin, Dermatomes](https://statpearls.com/sp/al/13/29335/)，皮節的路標位置，帶狀皰疹沿著皮節分布。

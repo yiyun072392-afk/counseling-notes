@@ -11,31 +11,31 @@ tags:
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://discovery-pp.ucl.ac.uk/1491645/1/Leff_tatsuji_inouye_1881-1976.pdf)。）
 >
 > 1904 年，日本和俄國開戰。
 >
 > 俄軍用的是一種新步槍，子彈小、速度又快。
 >
-> 有些日本士兵後腦中彈，竟然活了下來。
+> 有些日本士兵後腦中彈，竟然活下來。
 >
 > 一名剛從東京帝國大學畢業的年輕眼科醫師成為軍醫，負責檢查受傷士兵的視力，裁定他們該領多少撫卹金。
 >
-> 他發現，這些士兵的眼睛沒有受傷，看出去的視野卻都缺了一塊，而且缺的位置，好像跟子彈從哪裡進、從哪裡出有關。
+> 他發現，這些士兵的眼睛沒有受傷，看出去的視野卻都缺一塊，而且缺的位置，好像跟子彈從哪裡進、從哪裡出有關。
 >
 > 他把每個士兵頭上的彈孔位置量下來，比對他們受損的視野。
 >
-> 1909 年，他畫出了人類第一張「視野在大腦上的地圖」。
+> 1909 年，他畫出人類第一張「視野在大腦上的地圖」。
 
-這些士兵的問題是視野缺了一塊，可是眼睛本身沒有受傷。
+這些士兵的問題是視野缺一塊，可是眼睛本身沒有受傷。
 
-子彈打壞的，是後腦勺負責看的那一區塊：枕葉。
+子彈打壞的腦區，是後腦勺負責看的那一區塊：枕葉。
 
-枕葉負責接收並處理眼睛傳來的視覺訊息，所以枕葉哪一塊壞了，視野就對應缺一塊。
+枕葉負責接收並處理眼睛傳來的視覺訊息，所以枕葉哪一塊壞掉，視野就對應缺一塊。
 
-這名發現枕葉與視覺關聯的醫師是井上達二（Tatsuji Inouye）。
+這名發現枕葉與視覺關聯的醫師是[井上達二](https://en.wikipedia.org/wiki/Tatsuji_Inouye)（Tatsuji Inouye）。
 
-他的地圖比西方學者在第一次世界大戰後畫的版本更早，學界卻長期忽略了它。
+他的地圖比西方學者在第一次世界大戰後畫的版本更早，學界卻[長期忽略它](https://informahealthcare.com/doi/abs/10.1080/01658100701436264)。
 
 ## 枕葉是視覺的終點站
 
@@ -43,7 +43,7 @@ tags:
 
 接收這些訊息的地方叫初級視覺皮質（primary visual cortex），也叫 V1，在枕葉最後面。
 
-不僅左邊的視野送到右腦的枕葉，右邊的視野送到左腦，井上還發現：視野正中央在皮質上占據的面積，比餘光大得多。
+不僅左邊的視野送到右腦的枕葉，右邊的視野送到左腦，[井上還發現](https://iris.unitn.it/bitstream/11572/219986/1/horton.pdf)：視野正中央在皮質上占據的面積，比餘光大得多。
 
 這就像[[大腦皮質 Cerebral Cortex#皮質上的身體地圖|大腦皮質的身體地圖]]裡，手和嘴唇特別大：越需要看清楚的地方，分到越多皮質。
 
@@ -63,9 +63,9 @@ tags:
 
 枕葉受損後的症狀，要看受損的位置和範圍：
 
-- 視野缺損：只有一側受損時，通常是看不到對側的視野。例如左側枕葉受損，就看不到右邊的視野，而不是同側看不見或整片失明。
-- 皮質盲（cortical blindness）：兩側的初級視覺皮質如果都受損，病人就會完全看不見，但眼睛本身和瞳孔對光反射都正常。有些病人甚至否認自己看不見，叫安東症候群（Anton's syndrome）。
-- 視覺失認症（visual agnosia）：眼睛看得到，卻認不出東西；認不出臉的叫臉孔失認症（prosopagnosia）。這類症狀常和枕葉與[[顳葉 Temporal Lobe|顳葉]]交界的受損有關。
+- [視野缺損](https://pmc.ncbi.nlm.nih.gov/articles/PMC5493986)：只有一側受損時，通常是看不到對側的視野。例如左側枕葉受損，就看不到右邊的視野，而不是同側看不見或整片失明。
+- [皮質盲](https://pubmed.ncbi.nlm.nih.gov/32809461/)（cortical blindness）：兩側的初級視覺皮質如果都受損，病人就會完全看不見，但眼睛本身和瞳孔對光反射都正常。有些病人甚至否認自己看不見，叫安東症候群（Anton's syndrome）。
+- 視覺失認症（visual agnosia）：眼睛看得到，卻認不出東西；認不出臉的叫臉孔失認症（prosopagnosia）。這類症狀常和枕葉與[[顳葉 Temporal Lobe|顳葉]]交界的[受損](https://pmc.ncbi.nlm.nih.gov/articles/PMC9795709)有關。
 
 > [!quiz] 小測驗
 > 1. 左側枕葉受損，通常會看不到哪裡？
@@ -106,14 +106,3 @@ tags:
 >     - [x] 枕葉和顳葉｜顳葉負責認出看到的東西和臉。
 >     - [ ] 額葉和頂葉｜額葉和頂葉交界在中央溝附近。
 >     - [ ] 額葉和顳葉｜視覺處理從枕葉往顳葉走。
-
-## 參考資料
-
-- Leff, A. P.：[Tatsuji Inouye (1881–1976)](https://discovery-pp.ucl.ac.uk/1491645/1/Leff_tatsuji_inouye_1881-1976.pdf)，Journal of Neurology, 2015，新步槍、撫卹金評估與彈道量測。
-- Wikipedia：[Tatsuji Inouye](https://en.wikipedia.org/wiki/Tatsuji_Inouye)，對照彈孔與視野缺損，視野中央占較大皮質。
-- Neuro-Ophthalmology：[Tatsuji Inouye, M.D.](https://informahealthcare.com/doi/abs/10.1080/01658100701436264)，他的成果被第一次世界大戰後 Holmes 的研究蓋過。
-- PubMed Central：[PMC8638601](https://pmc.ncbi.nlm.nih.gov/articles/PMC8638601)，1909 年第一張視野地圖。
-- Horton：[Inouye's visual field map](https://iris.unitn.it/bitstream/11572/219986/1/horton.pdf)，Journal of Neuro-Ophthalmology, 2018。
-- PubMed：[Cortical Blindness](https://pubmed.ncbi.nlm.nih.gov/32809461/)，皮質盲與安東症候群。
-- PubMed Central：[PMC9795709](https://pmc.ncbi.nlm.nih.gov/articles/PMC9795709)，枕顳葉病灶與視覺失認症。
-- PubMed Central：[PMC5493986](https://pmc.ncbi.nlm.nih.gov/articles/PMC5493986)，初級視覺皮質受損與對側視野缺損。

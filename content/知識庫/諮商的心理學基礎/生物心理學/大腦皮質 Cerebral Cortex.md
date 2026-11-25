@@ -12,11 +12,11 @@ aliases:
 ← [[神經系統]]
 
 > [!quote] 故事
-> （以下根據 1930 年代真實的手術方式改寫，病人是虛構的。）
+> （以下根據 1930 年代[真實的手術方式](https://www.scienceblogs.com/neurophilosophy/2008/08/27/wilder-penfield-neural-cartographer)改寫，病人是虛構的。）
 >
 > 一九三〇年代的加拿大，一名二十多歲的農場工人，幾年前從馬背上摔下來，頭重重撞在地上。
 >
-> 傷好了，生活也恢復正常。
+> 傷口癒合，生活恢復正常。
 >
 > 幾年後，癲癇卻開始發作：先是左手一陣發麻，接著左手不停抽動，整個人倒在地上。
 >
@@ -24,7 +24,7 @@ aliases:
 >
 > 醫生建議開刀，把引起發作的那一小塊腦切掉。
 >
-> 手術時，醫生只麻醉了他的頭皮。頭骨打開後，他是醒著的。
+> 手術時，醫生只麻醉他的頭皮。頭骨打開後，他是醒著的。
 >
 > 醫生拿一支細細的電極，輕輕碰他的腦。
 >
@@ -46,13 +46,13 @@ aliases:
 
 ## 為什麼他醒著開刀卻不痛？
 
-因為腦本身沒有痛覺接受器。
+因為[腦本身沒有痛覺接受器](https://braintumorcenter.ucsf.edu/treatments/surgery/awake-brain-mapping-faq)。
 
 只要把頭皮麻醉，醫生碰到腦也不會痛。
 
 醫生要他醒著，是因為只有他能說出「手在跳」「臉在麻」，醫生才知道哪裡負責發出動作、哪裡負責接收感覺，切的時候要避開。
 
-這種清醒開顱手術現在還在用：腫瘤或癲癇的源頭靠近運動、感覺或語言的區域時，醫生一樣會請病人醒著配合。
+這種清醒開顱手術[現在還在用](https://www.mayoclinic.org/tests-procedures/awake-brain-surgery/home/ovc-20247843)：腫瘤或癲癇的源頭靠近運動、感覺或語言的區域時，醫生一樣會請病人醒著配合。
 
 > [!quiz] 小測驗
 > 1. 醒著開腦為什麼不會痛？
@@ -68,15 +68,15 @@ aliases:
 
 醫生用電極碰的，就是腦最外面的這一層。
 
-大腦皮質是包在大腦最外面的一層灰質，厚度只有兩到四毫米。
+[大腦皮質](https://www.britannica.com/print/article/103379)是包在大腦最外面的一層灰質，[厚度只有兩到四毫米](https://www.kenhub.com/en/library/anatomy/cerebral-cortex)。
 
-灰質裡擠滿了神經細胞的本體，負責接收感覺、處理資訊、發出運動指令，也負責思考這類高階功能。
+灰質裡擠滿神經細胞的本體，負責接收感覺、處理資訊、發出運動指令，也負責思考這類高階功能。
 
-灰質看起來灰，是因為神經細胞的本體沒有包上白色的髓鞘。
+[灰質看起來灰](https://www.livescience.com/32605-why-is-gray-matter-gray.html)，是因為神經細胞的本體沒有包上白色的髓鞘。
 
-細胞保留了它自己偏灰的顏色。在活人身上，因為佈滿微血管，灰質其實是帶點粉紅的灰褐色。
+細胞保留自己偏灰的顏色。在活人身上，因為佈滿微血管，灰質其實是帶點粉紅的灰褐色。
 
-皮質下面是白質，裡面是長長的神經纖維，負責把訊號送到遠處的腦區。
+皮質下面是[白質](https://www.csun.edu/~vcpsy00i/dissfa01/whiteGrey.html)，裡面是長長的神經纖維，負責把訊號送到遠處的腦區。
 
 白質看起來白，是因為這些神經纖維外面包著一層叫髓鞘的脂肪。
 
@@ -100,7 +100,7 @@ aliases:
 
 凸起來的部分叫腦迴（gyrus），凹下去的部分叫腦溝（sulcus）。
 
-大部分的皮質其實藏在腦溝裡，從外面看不到。
+大部分的皮質其實[藏在腦溝裡](https://en.wikipedia.org/wiki/Gyrification)，從外面看不到。
 
 有幾條腦溝特別深、特別長，解剖學家就拿它們當分區的界線。
 
@@ -116,13 +116,13 @@ aliases:
 
 ## 三條腦溝，分出四個腦葉
 
-中央溝、頂枕溝和外側溝，把每一側的大腦分成額葉、頂葉、枕葉和顳葉。
+[中央溝、頂枕溝和外側溝](https://www.ncbi.nlm.nih.gov/books/NBK537247/)，把每一側的大腦分成額葉、頂葉、枕葉和顳葉。
 
 - 中央溝（central sulcus）：從側面看在大腦中央偏上，前面是額葉，後面是頂葉
 - 頂枕溝（parieto-occipital sulcus）：在頂葉後面，分開頂葉和枕葉。枕葉就是躺下時壓在枕頭上的後腦勺
 - 外側溝（lateral sulcus）：把下方的顳葉和上方的額葉、頂葉分開。顳葉大概在耳朵上面
 
-四個腦葉各有各的工作：
+[四個腦葉](https://openbooks.lib.msu.edu/neuroscience/chapter/external-brain-anatomy/)各有各的工作：
 
 - [[額葉 Frontal Lobe|額葉]]：計畫並發出運動指令，也負責做決定、控制衝動
 - [[頂葉 Parietal Lobe|頂葉]]：接收身體傳來的觸覺、痛覺，也負責判斷東西在空間裡的位置
@@ -145,16 +145,16 @@ aliases:
 
 中央溝前面負責發出運動指令，後面負責接收身體的感覺。
 
-- 中央前回（precentral gyrus）在額葉，是初級運動皮質：發出指令，讓身體的肌肉動起來。故事裡碰到這裡，大拇指就自己跳了。
+- 中央前回（precentral gyrus）在額葉，是初級運動皮質：發出指令，讓身體的肌肉動起來。故事裡碰到這裡，大拇指就自己跳。
 - 中央後回（postcentral gyrus）在頂葉，是初級體感覺皮質：接收從身體傳來的觸覺、痛覺。故事裡碰到這裡，臉頰就麻麻的。
 
-身體傳來的感覺，會先經過[[間腦 Diencephalon|間腦]]的視丘轉送，再到中央後回。
+身體傳來的感覺，會先經過[[間腦 Diencephalon|間腦]]的視丘轉送，[再到中央後回](<https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_(Boundless)/12:_Peripheral_Nervous_System/12.3:_The_Somatosensory_System/12.3E:_Mapping_the_Primary_Somatosensory_Area>)。
 
 記法：決策者在決定要不要行動之前，一定會先聽情報部門提供的資訊。
 
 我們通常只看得到站在台前的決策者，看不太到後面的情報部門。所以在中央溝前面決定怎麼動的是額葉，在後面蒐集感官資訊的是頂葉。
 
-大腦是交叉控制。 右腦發出指令讓左半身動，左半身的感覺也送到右腦。
+大腦是[交叉控制](https://learninglink.oup.com/public/files/cdn/wolfe4e/wa13.03.html)。右腦發出指令讓左半身動，左半身的感覺也送到右腦。
 
 所以他的發作從左手開始，亂放電的地方其實在右腦。
 
@@ -170,11 +170,11 @@ aliases:
 
 ## 皮質上的身體地圖
 
-醫生一個點、一個點標記下來，最後就畫出了一張身體地圖。
+醫生一個點、一個點標記下來，最後畫出一張身體地圖。
 
-中央前回和中央後回上，身體每個部位都有固定的位置，畫成人形就叫皮質小人（cortical homunculus）。
+中央前回和中央後回上，身體每個部位都有固定的位置，畫成人形就叫[皮質小人](https://en.wikipedia.org/wiki/Cortical_homunculus)（cortical homunculus）。
 
-1937 年，Penfield 和 Boldrey 整理了 126 位清醒開刀的病人資料，第一次畫出這個小人。
+1937 年，[Penfield 和 Boldrey 整理 126 位清醒開刀的病人資料](https://pmc.ncbi.nlm.nih.gov/articles/PMC5841206)，第一次畫出這個小人。
 
 這個小人長得很怪：手、嘴唇和臉特別大。
 
@@ -221,21 +221,3 @@ aliases:
 >     - [x] 灰質在原地處理資訊，白質把資訊送到遠處｜顏色差別來自有沒有髓鞘。
 >     - [ ] 灰質負責感覺，白質負責運動｜兩者都同時參與感覺和運動。
 >     - [ ] 灰質負責左腦，白質負責右腦｜兩邊的腦都有灰質和白質。
-
-## 參考資料
-
-- Encyclopaedia Britannica：[Cerebral cortex](https://www.britannica.com/print/article/103379)，皮質負責整合感覺、指揮運動與高階智力功能，腦迴腦溝增加面積。
-- Kenhub：[Cerebral cortex](https://www.kenhub.com/en/library/anatomy/cerebral-cortex)，皮質厚度與神經細胞本體。
-- Wikipedia：[Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex) 與 [Gyrification](https://en.wikipedia.org/wiki/Gyrification)，大部分皮質藏在腦溝裡，白質是長的軸突。
-- Live Science：[Why Is Gray Matter Gray?](https://www.livescience.com/32605-why-is-gray-matter-gray.html)，白質的髓鞘脂肪是白的，灰質沒有髓鞘，活人身上偏粉紅灰褐。
-- CSUN：[White and Grey Matter](https://www.csun.edu/~vcpsy00i/dissfa01/whiteGrey.html)，灰質與白質名稱的由來。
-- Mayo Clinic：[Awake brain surgery](https://www.mayoclinic.org/tests-procedures/awake-brain-surgery/home/ovc-20247843)，現在仍用於腫瘤與癲癇手術。
-- StatPearls：[Neuroanatomy, Cerebral Cortex](https://www.ncbi.nlm.nih.gov/books/NBK537247/)，腦溝、腦葉分界與運動、體感覺皮質的位置。
-- Michigan State University Open Books：[External Brain Anatomy](https://openbooks.lib.msu.edu/neuroscience/chapter/external-brain-anatomy/)，各腦葉的位置與功能。
-- UCSF Brain Tumor Center：[Awake Brain Mapping FAQ](https://braintumorcenter.ucsf.edu/treatments/surgery/awake-brain-mapping-faq)，腦本身沒有痛覺接受器，癲癇手術也會清醒定位。
-- Neurophilosophy：[Wilder Penfield, Neural Cartographer](https://www.scienceblogs.com/neurophilosophy/2008/08/27/wilder-penfield-neural-cartographer)，局部麻醉、臉頰發麻、拇指不由自主地動。
-- William Feindel：[Development of Surgical Therapy of Epilepsy at the Montreal Neurological Institute](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1E75D29C7CCAD54FA0857E087D0B9984/S0317167100032674a.pdf/development-of-surgical-therapy-of-epilepsy-at-the-montreal-neurological-institute.pdf)，Penfield 的癲癇手術。
-- PubMed Central：[PMC5841206](https://pmc.ncbi.nlm.nih.gov/articles/PMC5841206)，Penfield 與 Boldrey 1937 年用 126 位病人的資料畫出皮質小人。
-- Wikipedia：[Cortical homunculus](https://en.wikipedia.org/wiki/Cortical_homunculus)，手、嘴唇和臉特別大的原因。
-- Oxford University Press：[The Sensory Homunculus](https://learninglink.oup.com/public/files/cdn/wolfe4e/wa13.03.html)，觸覺是對側的，嘴唇占的面積比腿大。
-- LibreTexts：[Mapping the Primary Somatosensory Area](<https://med.libretexts.org/Bookshelves/Anatomy_and_Physiology/Anatomy_and_Physiology_(Boundless)/12:_Peripheral_Nervous_System/12.3:_The_Somatosensory_System/12.3E:_Mapping_the_Primary_Somatosensory_Area>)，中央後回接收來自視丘的訊號。

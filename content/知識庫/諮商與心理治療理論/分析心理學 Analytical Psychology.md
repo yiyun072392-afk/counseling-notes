@@ -14,7 +14,7 @@ tags:
 ← [[精神分析 Psychoanalysis]]
 
 > [!quote] 故事
-> （以下改編自真實事件。）
+> （以下改編自[真實事件](https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08121897)。）
 >
 > 1909 年 8 月，一艘郵輪從德國開往紐約。
 >
@@ -30,7 +30,7 @@ tags:
 >
 > 「我不能拿我的權威冒險。」
 >
-> 學生後來回憶：那一刻，老師跌下了神壇。
+> 學生後來回憶：那一刻，老師跌下神壇。
 >
 > 學生也說出自己的一個夢：他在一棟房子裡往下走，每一層都比上一層更古老，最底下的洞穴裡散落著古人的頭骨。
 >
@@ -42,7 +42,7 @@ tags:
 
 老師是佛洛伊德，學生是瑞士精神科醫師榮格（Carl Gustav Jung）。
 
-兩人搭乘「喬治華盛頓號」前往美國克拉克大學演講。
+兩人搭乘[「喬治華盛頓號」](https://www.americanheritage.com/1909-seventy-five-years-ago)前往美國克拉克大學演講。
 
 榮格後來在自傳《回憶・夢・反思》裡寫下這段航程。
 
@@ -139,12 +139,3 @@ tags:
 
 - 共時性（synchronicity）。
 - 榮格學派的象徵分析怎麼用在人際與情感問題。
-
-## 參考資料
-
-- Jung, C. G. (1962). Memories, Dreams, Reflections。
-- Jung, C. G. (1912). Wandlungen und Symbole der Libido（英譯 Symbols of Transformation）。
-- Jung, C. G. (1921). Psychological Types。
-- [Freud in the New World（American Journal of Psychiatry, 2009）](https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08121897)
-- [1909: Seventy-five Years Ago（American Heritage）](https://www.americanheritage.com/1909-seventy-five-years-ago)
-- Corey, G.《諮商與心理治療的理論與實務》精神分析章。
