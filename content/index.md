@@ -14,14 +14,20 @@ title: Kuripsy 故事心理學
 - <span class="story-year" data-y="1953">1953</span>![卡哈爾手繪的海馬迴，1911](<https://commons.wikimedia.org/wiki/Special:FilePath/CajalHippocampus_(modified).png?width=640>)[[顳葉 Temporal Lobe|手術後，他再也記不住新的事]]顳葉：海馬迴、記憶和語言理解
 - <span class="story-year" data-y="1952">1952</span>![雷頓〈波瑟芬妮歸來〉，1891](<https://commons.wikimedia.org/wiki/Special:FilePath/Frederic_Leighton_-_The_Return_of_Persephone_(1891).jpg?width=640>)[[依附理論 Attachment Theory|兩歲女孩住院八天，媽媽不能陪]]依附理論：四種依附類型，和長大後的親密關係
 
-## 大腦怎麼運作
+## 神經怎麼把命令送到全身
 
-由下往上讀：先看整個神經系統，再從脊髓一路往上到大腦皮質。
+先看整個神經系統，再看神經元、脊髓，最後是通往肌肉和內臟的兩套周圍神經。
 
 - <span class="story-year" data-y="1780">1780 年代</span>![伽伐尼的青蛙腿實驗圖，1791](<https://commons.wikimedia.org/wiki/Special:FilePath/Galvani_frog_legs_experiment_setup.png?width=640>)[[神經系統|死掉的青蛙腿，碰到金屬就踢]]神經系統：中樞與周圍、軀體與自律，先看整張地圖
 - <span class="story-year" data-y="1873">1873</span>![卡哈爾手繪的浦金氏細胞，1899](<https://commons.wikimedia.org/wiki/Special:FilePath/PurkinjeCell.jpg?width=640>)[[神經元 Neuron|醫師在廚房裡染出神經元]]神經元：訊號怎麼在細胞之間傳遞
 - <span class="story-year">古埃及</span>![艾德溫．史密斯紙草](<https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Smith_Papyrus_v2.jpg?width=640>)[[脊髓 Spinal Cord|三千年前的判斷：不予治療]]脊髓：大腦和身體之間的訊號通道
 - <span class="story-year" data-y="1971">1971</span>![維薩里《人體的構造》，1543](<https://commons.wikimedia.org/wiki/Special:FilePath/Vesalius_Fabrica_p164.jpg?width=640>)[[軀體神經系統 Somatic Nervous System|十九歲那年，他感覺不到自己的身體]]軀體神經系統：本體感覺和隨意動作
+- <span class="story-year" data-y="2018">2018</span>![《格雷氏解剖學》的腹腔神經叢與腎上腺，1918](<https://commons.wikimedia.org/wiki/Special:FilePath/Gray848.png?width=640>)[[自律神經系統 Autonomic Nervous System|恐慌了十三年，原因在腎上腺]]自律神經系統：交感踩油門、副交感踩煞車，壓力來時誰先到
+
+## 大腦怎麼運作
+
+由下往上讀：從腦幹一路往上到大腦皮質。
+
 - <span class="story-year" data-y="1995">1995</span>![《格雷氏解剖學》的腦幹圖，1918](<https://commons.wikimedia.org/wiki/Special:FilePath/Gray719.png?width=640>)[[腦幹 Brainstem|只剩左眼能眨，他寫完一本書]]腦幹：閉鎖症候群、呼吸心跳和腦神經
 - <span class="story-year">虛構</span>![卡哈爾第一張神經系統手繪，1888](<https://commons.wikimedia.org/wiki/Special:FilePath/Cajal_(1888)_firt_drawing_of_nervous_system.gif?width=640>)[[小腦 Cerebellum|天才外科醫師的手，越靠近越抖]]小腦：動作協調，也參與認知和情緒
 - <span class="story-year">虛構</span>![沃特豪斯〈睡神與他的兄弟死神〉，1874](<https://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse-sleep_and_his_half-brother_death-1874.jpg?width=640>)[[間腦 Diencephalon|觀眾一笑，他就癱坐在地]]間腦：視丘轉送感覺，下視丘管睡眠和身體
@@ -57,7 +63,6 @@ title: Kuripsy 故事心理學
 
 ### 大腦
 - [[失語症 Aphasia]] — 聽得懂卻說不出，或說得流利卻沒有意義：七種失語症怎麼分
-- [[自律神經系統 Autonomic Nervous System]] — 交感和副交感神經怎麼分工
 
 ### 精神分析
 - [[自我防衛機制 Ego-defense mechanisms]] — 自我擋不住焦慮時，會用的 24 種策略
