@@ -53,6 +53,7 @@ title: Kuripsy 故事心理學
 - <span class="story-year" data-y="1909">1909</span>![喬治華盛頓號郵輪，1909](<https://commons.wikimedia.org/wiki/Special:FilePath/George_Washington_Dampfer.jpg?width=640>)[[分析心理學 Analytical Psychology|開往紐約的郵輪上，兩人互相解夢]]分析心理學：集體潛意識、原型和個體化
 - <span class="story-year" data-y="1920">1920 年代</span>![沃特豪斯〈潘朵拉〉，1896](<https://commons.wikimedia.org/wiki/Special:FilePath/Pandora_-_John_William_Waterhouse.jpg?width=640>)[[精神分析的女性主義批判|她在學會上反駁陽具欽羨]]女性主義批判：女性不是缺一塊的男性
 - <span class="story-year" data-y="1932">1932</span>![德雷珀〈哀悼伊卡洛斯〉，1898](<https://commons.wikimedia.org/wiki/Special:FilePath/Herbert_Draper_-_The_Lament_for_Icarus_-_Google_Art_Project.jpg?width=640>)[[荷妮的神經症理論 Karen Horney|她到美國，發現焦慮跟著文化走]]荷妮：基本焦慮和應該的暴政
+- <span class="story-year" data-y="1936">1936</span>![卡拉瓦喬〈梅杜莎〉盾牌，1597](<https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_-_Medusa_-_Google_Art_Project.jpg?width=640>)[[自我防衛機制 Ego-defense mechanisms|趕在父親八十歲生日前寫完的書]]自我防衛機制：自我怎麼把焦慮擋在門口
 - <span class="story-year" data-y="1942">1942</span>![倫敦大轟炸後的泰晤士河，1940](<https://commons.wikimedia.org/wiki/Special:FilePath/London_Blitz_791940.jpg?width=640>)[[客體關係理論 Object Relations Theory|轟炸後的倫敦，分析師吵成一團]]客體關係理論：嬰兒和照顧者的關係，塑造內在世界
 - <span class="story-year">芝加哥</span>![卡拉瓦喬〈納西瑟斯〉](<https://commons.wikimedia.org/wiki/Special:FilePath/Narcissus-Caravaggio_(1594-96)_edited.jpg?width=640>)[[自體心理學 Self Psychology|同一個人做兩次分析，結果完全不同]]自體心理學：鏡映、理想化和神入
 - <span class="story-year" data-y="1952">1952</span>![雷頓〈波瑟芬妮歸來〉，1891](<https://commons.wikimedia.org/wiki/Special:FilePath/Frederic_Leighton_-_The_Return_of_Persephone_(1891).jpg?width=640>)[[依附理論 Attachment Theory|兩歲女孩住院八天，媽媽不能陪]]依附理論：四種依附類型，和長大後的親密關係
@@ -65,7 +66,6 @@ title: Kuripsy 故事心理學
 - [[失語症 Aphasia]] — 聽得懂卻說不出，或說得流利卻沒有意義：七種失語症怎麼分
 
 ### 精神分析
-- [[自我防衛機制 Ego-defense mechanisms]] — 自我擋不住焦慮時，會用的 24 種策略
 - [[性心理發展階段]] — 佛洛伊德的五個階段，和固著後的性格
 - [[前伊底帕斯期]] — 三角關係出現之前，嬰兒和母親不分你我
 - [[《伊底帕斯王》（Oedipus Rex）]] — 伊底帕斯情結的名稱來源：索福克勒斯的悲劇
