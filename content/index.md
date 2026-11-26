@@ -58,6 +58,12 @@ title: Kuripsy 故事心理學
 - <span class="story-year">芝加哥</span>![卡拉瓦喬〈納西瑟斯〉](<https://commons.wikimedia.org/wiki/Special:FilePath/Narcissus-Caravaggio_(1594-96)_edited.jpg?width=640>)[[自體心理學 Self Psychology|同一個人做兩次分析，結果完全不同]]自體心理學：鏡映、理想化和神入
 - <span class="story-year" data-y="1952">1952</span>![雷頓〈波瑟芬妮歸來〉，1891](<https://commons.wikimedia.org/wiki/Special:FilePath/Frederic_Leighton_-_The_Return_of_Persephone_(1891).jpg?width=640>)[[依附理論 Attachment Theory|兩歲女孩住院八天，媽媽不能陪]]依附理論：四種依附類型，和長大後的親密關係
 
+## 人怎麼面對死亡和意義
+
+從一個怕死的國王開始，看存在主義怎麼回答人生躲不掉的問題。
+
+- <span class="story-year">神話</span>![亞述浮雕〈制伏獅子的英雄〉，常被認為是吉爾伽美什](<https://commons.wikimedia.org/wiki/Special:FilePath/Hero_lion_Dur-Sharrukin_Louvre_AO19862.jpg?width=640>)[[存在主義治療 Existential Therapy|國王第一次害怕死亡]]存在主義治療：死亡、自由、孤獨和無意義
+
 ## 其他筆記
 
 這些筆記還沒有故事，之後會陸續改寫。
