@@ -5,6 +5,7 @@ tags:
   - 神經
   - 周圍神經系統
   - 本體感覺
+slug: somatic-nervous-system
 ---
 
 ← [[神經系統]]

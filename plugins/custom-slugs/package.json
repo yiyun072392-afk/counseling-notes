@@ -1,0 +1,22 @@
+{
+  "name": "custom-slugs",
+  "version": "1.0.0",
+  "description": "用 frontmatter 的 slug 和資料夾對照表，把網址換成簡短的英文；中文檔名與 [[連結]] 照舊",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "custom-slugs",
+    "displayName": "CustomSlugs",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

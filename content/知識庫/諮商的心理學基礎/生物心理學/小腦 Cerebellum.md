@@ -4,6 +4,7 @@ description: 小腦的構造與分區、同側控制、受損後的共濟失調�
 tags:
   - 神經
   - 小腦
+slug: cerebellum
 ---
 
 ← [[神經系統]]

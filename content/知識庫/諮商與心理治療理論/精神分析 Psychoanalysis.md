@@ -8,6 +8,7 @@ aliases:
 tags:
   - 精神分析
   - 諮商理論
+slug: psychoanalysis
 ---
 
 > [!quote] 故事

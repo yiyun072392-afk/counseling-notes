@@ -6,6 +6,7 @@ tags:
   - 大腦
   - 頂葉
   - 半側忽略
+slug: parietal-lobe
 ---
 
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]

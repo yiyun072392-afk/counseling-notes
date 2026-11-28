@@ -4,6 +4,7 @@ description: 從安娜．佛洛伊德 1936 年的《自我與防衛機制》出�
 tags:
   - 精神分析
   - 防衛機制
+slug: defense-mechanisms
 ---
 
 > [!quote] 故事

@@ -11,6 +11,7 @@ tags:
   - 精神分析
   - 依附理論
   - 諮商理論
+slug: attachment-theory
 ---
 
 ← [[精神分析 Psychoanalysis]]

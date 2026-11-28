@@ -9,6 +9,7 @@ tags:
   - 精神分析
   - 發展
   - 諮商理論
+slug: oedipus-complex
 ---
 
 ← [[精神分析 Psychoanalysis]]

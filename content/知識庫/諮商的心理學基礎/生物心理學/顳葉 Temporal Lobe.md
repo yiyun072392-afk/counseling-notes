@@ -6,6 +6,7 @@ tags:
   - 大腦
   - 顳葉
   - 記憶
+slug: temporal-lobe
 ---
 
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]

@@ -7,6 +7,7 @@ tags:
   - 大腦皮質
 aliases:
   - 大腦皮質與四大腦葉 Cerebral Cortex and Lobes
+slug: cerebral-cortex
 ---
 
 ← [[神經系統]]

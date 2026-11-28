@@ -6,6 +6,7 @@ tags:
   - 間腦
   - 視丘
   - 下視丘
+slug: diencephalon
 ---
 
 ← [[神經系統]]

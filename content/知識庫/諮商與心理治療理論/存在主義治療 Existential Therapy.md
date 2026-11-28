@@ -4,6 +4,7 @@ description: 從《吉爾伽美什史詩》出發，介紹亞隆的四個終極�
 tags:
   - 存在主義
   - 諮商理論
+slug: existential-therapy
 ---
 
 > [!quote] 故事

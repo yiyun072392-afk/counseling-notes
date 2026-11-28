@@ -10,6 +10,7 @@ tags:
   - 精神分析
   - 新佛洛伊德學派
   - 諮商理論
+slug: karen-horney-neurosis
 ---
 
 ← [[精神分析 Psychoanalysis]]
