@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Kuripsy 故事心理學
-  pageTitleSuffix: ""
+  pageTitleSuffix: " | Kuripsy 故事心理學"
   enableSPA: true
   enablePopovers: true
   locale: zh-TW
