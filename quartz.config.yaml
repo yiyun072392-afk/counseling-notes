@@ -271,6 +271,7 @@ plugins:
     enabled: true
     options:
       links:
+        關於: /about
         用 Quartz 製作: https://quartz.jzhao.xyz
     layout:
       position: footer
