@@ -97,6 +97,9 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: true
+    order: 90
   # 英文網址：每篇筆記的 frontmatter 寫 slug，資料夾的英文名稱寫在這裡（"" = 這層不出現在網址）
   # 新增分類資料夾時，記得在這裡補上英文名稱
   - source: ./plugins/custom-slugs
@@ -122,9 +125,6 @@ plugins:
         知識庫/個案評估與心理衡鑑: assessment
         知識庫/團體諮商與心理治療: group-counseling
         知識庫/諮商與心理治療實務與專業倫理: practice
-  - source: "@quartz-community/hard-line-breaks"
-    enabled: true
-    order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
     order: 91
