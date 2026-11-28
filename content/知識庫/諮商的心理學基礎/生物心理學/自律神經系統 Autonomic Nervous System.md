@@ -6,6 +6,7 @@ tags:
   - 自律神經
   - 交感神經
   - 副交感神經
+slug: autonomic-nervous-system
 ---
 
 ← [[神經系統]]

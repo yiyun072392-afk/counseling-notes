@@ -6,6 +6,7 @@ tags:
   - 大腦
   - 枕葉
   - 視覺
+slug: occipital-lobe
 ---
 
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]

@@ -9,6 +9,7 @@ tags:
   - 精神分析
   - 榮格
   - 諮商理論
+slug: analytical-psychology
 ---
 
 ← [[精神分析 Psychoanalysis]]

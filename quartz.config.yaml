@@ -97,6 +97,31 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
+  # 英文網址：每篇筆記的 frontmatter 寫 slug，資料夾的英文名稱寫在這裡（"" = 這層不出現在網址）
+  # 新增分類資料夾時，記得在這裡補上英文名稱
+  - source: ./plugins/custom-slugs
+    enabled: true
+    order: 999
+    options:
+      folders:
+        知識庫: ""
+        知識庫/諮商的心理學基礎: ""
+        知識庫/心理學方法: ""
+        知識庫/諮商的心理學基礎/普通心理學: general-psychology
+        知識庫/諮商的心理學基礎/生物心理學: biopsych
+        知識庫/諮商的心理學基礎/神經心理學: neuropsych
+        知識庫/諮商的心理學基礎/認知心理學: cognitive
+        知識庫/諮商的心理學基礎/發展心理學: developmental
+        知識庫/諮商的心理學基礎/性格心理學: personality
+        知識庫/諮商的心理學基礎/社會心理學: social
+        知識庫/心理學方法/心理統計: statistics
+        知識庫/心理學方法/心理實驗: experimental
+        知識庫/心理學方法/心理測驗: testing
+        知識庫/心理健康與變態心理學: abnormal
+        知識庫/諮商與心理治療理論: counseling
+        知識庫/個案評估與心理衡鑑: assessment
+        知識庫/團體諮商與心理治療: group-counseling
+        知識庫/諮商與心理治療實務與專業倫理: practice
   - source: "@quartz-community/hard-line-breaks"
     enabled: true
     order: 90

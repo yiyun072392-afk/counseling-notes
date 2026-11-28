@@ -8,6 +8,7 @@ tags:
   - 精神分析
   - 夢
   - 諮商理論
+slug: interpretation-of-dreams
 ---
 
 ← [[精神分析 Psychoanalysis]]

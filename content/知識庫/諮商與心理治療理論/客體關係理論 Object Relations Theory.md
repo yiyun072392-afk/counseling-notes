@@ -8,6 +8,7 @@ tags:
   - 精神分析
   - 客體關係
   - 諮商理論
+slug: object-relations-theory
 ---
 
 ← [[精神分析 Psychoanalysis]]

@@ -8,6 +8,7 @@ tags:
   - 精神分析
   - 治療關係
   - 諮商理論
+slug: transference-countertransference
 ---
 
 ← [[精神分析 Psychoanalysis]]

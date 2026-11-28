@@ -5,6 +5,7 @@ tags:
   - 神經
   - 失語症
   - 語言
+slug: aphasia
 ---
 
 ← [[神經系統]]　｜　[[大腦皮質 Cerebral Cortex|大腦皮質]]

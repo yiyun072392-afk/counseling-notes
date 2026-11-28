@@ -10,6 +10,7 @@ tags:
   - 精神分析
   - 自體心理學
   - 諮商理論
+slug: self-psychology
 ---
 
 ← [[精神分析 Psychoanalysis]]

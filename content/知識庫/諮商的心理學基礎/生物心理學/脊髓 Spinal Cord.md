@@ -4,6 +4,7 @@ description: 以古埃及艾德溫．史密斯紙草文稿的脊髓損傷病例�
 tags:
   - 神經
   - 脊髓
+slug: spinal-cord
 ---
 
 ← [[神經系統]]
