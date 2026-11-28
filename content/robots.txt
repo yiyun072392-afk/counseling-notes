@@ -1,0 +1,25 @@
+# Kuripsy 故事心理學
+# 搜尋引擎與 AI 搜尋（ChatGPT 搜尋、Perplexity、Claude 等即時引用）全部放行；
+# 只擋下拿內容去訓練 AI 模型的爬蟲。
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Allow: /
+
+# 訓練用爬蟲
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Diffbot
+User-agent: MistralAI-Training
+Disallow: /
+
+Sitemap: https://kuripsy.space/sitemap.xml
