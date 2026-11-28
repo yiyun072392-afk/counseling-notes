@@ -449,3 +449,8 @@ body[data-slug="index"] .markdown-rendered > ul:has(> li > .story-year) {
     padding: 0;
   }
 }
+
+// 圖片有寬高屬性時，高度跟著寬度等比縮放（寬高只用來預留版面，避免載入時跳動）
+:where(img[width][height]) {
+  height: auto;
+}

@@ -97,6 +97,10 @@ plugins:
   - source: "@quartz-community/citations"
     enabled: false
     order: 85
+  # 圖片加寬高、延遲載入（plugins/image-attrs）
+  - source: ./plugins/image-attrs
+    enabled: true
+    order: 95
   - source: "@quartz-community/hard-line-breaks"
     enabled: true
     order: 90

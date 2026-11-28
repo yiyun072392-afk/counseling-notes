@@ -1,0 +1,22 @@
+{
+  "name": "image-attrs",
+  "version": "1.0.0",
+  "description": "幫網站上的圖片加上寬高、延遲載入，避免版面跳動、加快載入速度",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "image-attrs",
+    "displayName": "ImageAttrs",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
